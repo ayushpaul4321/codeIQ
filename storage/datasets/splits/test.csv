@@ -1,0 +1,1329 @@
+id,text,component,product,assigned_to,dev_id,dev_bugs_fixed
+15871,product: pde component: ui summary: can't view xml file from repositories view,ui,PDE,dejan@ca.ibm.com,35,632
+30365,product: cdt component: cdt-core summary: header file errors => empty tasks,cdt-core,CDT,cdtdoug@gmail.com,25,129
+52743,"product: pde component: ui summary: launch configuration ""location"" field does not keep history",ui,PDE,pde-ui-inbox@eclipse.org,73,356
+15566,product: cdt component: cdt-debug summary: launching debugger with remote projects,cdt-debug,CDT,dmcknigh@ca.ibm.com,40,28
+18295,product: jdt component: ui summary: performance - organize imports taking a very long time to complete,ui,JDT,erich_gamma@ch.ibm.com,43,399
+6735,product: platform component: swt summary: awt/swt - swing / swt integration : jcombobox doesn't show correctly,swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+20202,product: pde component: ui summary: plug in import - as required does not go far enough,ui,PDE,wassim.melhem@gmail.com,86,303
+12192,product: jdt component: ui summary: rename method complains if the new name is overloaded [refactoring],ui,JDT,akiezun@gmail.com,14,304
+28968,product: cdt component: cdt-core summary: ceditor syntax hiligth confuse,cdt-core,CDT,alain@qnx.com,15,407
+9252,product: pde component: ui summary: no descriptions on any of the manifest editor tabs,ui,PDE,dejan@ca.ibm.com,35,632
+15762,product: pde component: ui summary: classnotfoundexception in build 20020510,ui,PDE,dejan@ca.ibm.com,35,632
+4866,product: platform component: swt summary: styledtext - improve tab stops support in styledtext,swt,Platform,eclipse.felipe@gmail.com,41,16
+26368,product: cdt component: cdt-core summary: projects context menu option always disabled (bookmarks),cdt-core,CDT,alain@qnx.com,15,407
+7435,product: platform component: swt summary: arrayindexoutboundsexception occurs when using solaris through remote terminal,swt,Platform,grant_gayed@ca.ibm.com,46,44
+80966,product: cdt component: cdt-build summary: classcastexception in mgd make when 3rd parties change wizard pages,cdt-build,CDT,leo.treggiari@intel.com,64,58
+26432,product: pde component: ui summary: pde cannot find schemas if they are in source distribution,ui,PDE,dejan@ca.ibm.com,35,632
+36582,product: cdt component: cdt-core summary: drag-n-drop starts with a big delay for large binary files,cdt-core,CDT,alain@qnx.com,15,407
+6375,product: jdt component: ui summary: organize imports asks to specify the same class,ui,JDT,martinae@microsoft.com,66,426
+9772,product: platform component: team summary: [team core] changing global ignore should refresh sync view,team,Platform,jean-michel_lemieux@ca.ibm.com,52,23
+24342,product: pde component: build summary: unused variables in buildscriptgeneratortask,build,PDE,rodrigo@peretti.ca,77,23
+95720,product: cdt component: cdt-parser summary: [ambiguity] cast expression ambiguity,cdt-parser,CDT,john.camelon@gmail.com,56,302
+9132,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: multiple histories created on startup,update  (deprecated - use eclipse>equinox>p2),Platform,celek@ca.ibm.com,26,33
+106036,product: cdt component: cdt-build summary: option enablement using 'live' values,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+45235,product: cdt component: cdt-parser summary: [templates] friend templates not handled,cdt-parser,CDT,mschorn.eclipse@gmx.at,68,108
+10853,product: platform component: ui summary: fast views should should maximize when the user clicks on the title bar,ui,Platform,knut_radloff@us.ibm.com,62,72
+26869,product: jdt component: text summary: double quotes - your tab *will* go where i want it to,text,JDT,jdt-text-inbox@eclipse.org,50,171
+39442,product: cdt component: cdt-core summary: colorizing built-in types is misguided,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+11656,product: jdt component: core summary: please add a icompletionrequestoradapter,core,JDT,philippe_mulet@fr.ibm.com,74,207
+79518,product: cdt component: cdt-core summary: path/variable manager support service in the core(string substitution),cdt-core,CDT,alain@qnx.com,15,407
+16025,product: jdt component: ui summary: classcastexception from templates in javadoc,ui,JDT,Claude_Knaus@oti.com,0,133
+11537,product: jdt component: ui summary: refactoring - extract local adds incorrect import,ui,JDT,akiezun@gmail.com,14,304
+10105,product: cdt component: cdt-other summary: autoconf: if source in top level directory then ask user for target type(program/library),cdt-other,CDT,eyasser@ca.ibm.com,44,11
+4132,"product: jdt component: ui summary: error tick on project not present after ""add to workspace"" (1giv2hd)",ui,JDT,martinae@microsoft.com,66,426
+7669,product: jdt component: ui summary: show in packages view: enables on empty selection,ui,JDT,erich_gamma@ch.ibm.com,43,399
+39253,product: pde component: ui summary: pde log swt exception,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+30032,product: pde component: build summary: compiling against an installed version of eclipse does not support links,build,PDE,pde-build-inbox@eclipse.org,71,57
+29553,product: jdt component: ui summary: astrewrite - extra dimensions lost,ui,JDT,martinae@microsoft.com,66,426
+11125,product: jdt component: core summary: dom/ast: api request,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+9741,product: jdt component: ui summary: organize import is gone from the context menu,ui,JDT,martinae@microsoft.com,66,426
+4986,product: jdt component: ui summary: list of methods out of synch when changes unsaved in java class,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+26954,product: jdt component: text summary: java editor types text backwords,text,JDT,jdt-text-inbox@eclipse.org,50,171
+7055,product: jdt component: ui summary: move cu missed a reference,ui,JDT,akiezun@gmail.com,14,304
+15254,product: jdt component: core summary: javamodelmanager thinks javaproject is closed when it is open,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+5834,product: jdt component: core summary: incremental build recompiled unrelated project,core,JDT,kent_johnson@ca.ibm.com,60,69
+5178,product: platform component: swt summary: change bidiutil calls to handle true unicode/windows ce changes,swt,Platform,knut_radloff@us.ibm.com,62,72
+13143,product: jdt component: core summary: binary constructor search does not work (ref & decl),core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+59816,product: cdt component: cdt-core summary: intermittent deadlock in running cdescriptor junit tests,cdt-core,CDT,alain@qnx.com,15,407
+13218,product: jdt component: ui summary: pull up: missing '...' in the menu entry,ui,JDT,akiezun@gmail.com,14,304
+10819,product: jdt component: core summary: incomplete task description after build with incomplete classpath,core,JDT,kent_johnson@ca.ibm.com,60,69
+84266,product: cdt component: cdt-parser summary: elaborated type specifier's name has null binding for function returning type,cdt-parser,CDT,aniefer@gmail.com,18,288
+23810,product: jdt component: text summary: extra (todo) markers red underline/overview ruler image,text,JDT,jdt-text-inbox@eclipse.org,50,171
+10824,"product: platform component: team summary: need progress on ""compare with->latest from repository""",team,Platform,Michael.Valenta@ibm.com,7,110
+31223,product: pde component: ui summary: new super-java (e.g. pde) projects do not use containers,ui,PDE,wassim.melhem@gmail.com,86,303
+23434,product: jdt component: ui summary: arraystoreexception attempting rename field [refactoring],ui,JDT,erich_gamma@ch.ibm.com,43,399
+12373,product: jdt component: core summary: assert$assertionfailedexception error while reconciling,core,JDT,philippe_mulet@fr.ibm.com,74,207
+27350,product: pde component: ui summary: api change will break nullmenumanager,ui,PDE,dejan@ca.ibm.com,35,632
+14602,product: jdt component: core summary: ast: length of variable declaration fragment,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+80269,product: cdt component: cdt-parser summary: quotes around a source file confuse auto-discovery parser,cdt-parser,CDT,victor.lenet@gmail.com,85,82
+4143,product: jdt component: ui summary: refactoring: should not use computed strings (1giwkfj),ui,JDT,erich_gamma@ch.ibm.com,43,399
+8766,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: installing from a site with a port number in the url fails,update  (deprecated - use eclipse>equinox>p2),Platform,klicnik@ca.ibm.com,61,18
+10186,product: platform component: ui summary: import and export start pages should use group,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+32647,product: pde component: ui summary: [rc1] a12.1 the welcome does not mention development at all,ui,PDE,dejan@ca.ibm.com,35,632
+40537,product: pde component: build summary: error reporting on the absence of boot and runtime,build,PDE,pascal@rapicorp.com,70,14
+46685,product: cdt component: cdt-core summary: binaryparserblock has npe when a binary parser has be removed but was previously selected in project,cdt-core,CDT,dinglis@qnx.com,37,148
+19996,product: jdt component: ui summary: rename type: no progress reported when changes are performed [refactoring],ui,JDT,akiezun@gmail.com,14,304
+20055,product: pde component: ui summary: classcastexception creating feature project,ui,PDE,dejan@ca.ibm.com,35,632
+32616,"product: pde component: ui summary: [rc1] a3.1 the page is welcome, not overview",ui,PDE,dejan@ca.ibm.com,35,632
+28293,product: pde component: ui summary: import existing binary projects selects some source projects,ui,PDE,wassim.melhem@gmail.com,86,303
+7358,product: platform component: compare summary: internal error in compare with patch with new files,compare,Platform,andre_weinand@ch.ibm.com,17,76
+102,product: platform component: team summary: compare: cntrl-n for stepping (1gek2nh),team,Platform,James_Moody@ca.ibm.com,2,173
+2938,product: platform component: compare summary: replace from local history should show busy cursor (1gku0p3),compare,Platform,andre_weinand@ch.ibm.com,17,76
+91680,product: cdt component: cdt-core summary: content assist: expressions in for spec,cdt-core,CDT,cdtdoug@gmail.com,25,129
+69666,product: cdt component: cdt-core summary: get rid of external search links,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+11317,product: jdt component: ui summary: won't export some files to .jar.,ui,JDT,daniel_megert@ch.ibm.com,32,216
+96920,product: cdt component: cdt-releng summary: %refactoring.menu.label,cdt-releng,CDT,cdtdoug@gmail.com,25,129
+2182,"product: platform component: ui summary: [navigator] dcr - need shortcut for ""go into"" in navigator & package view (1ge9vb8)",ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+26713,product: pde component: ui summary: exception adding all plugins to java search,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+3732,product: jdt component: ui summary: meta: nls plugin wish list (1ggahyd),ui,JDT,akiezun@gmail.com,14,304
+26357,product: jdt component: ui summary: change method signature: displays error message on input page when table cell edit mode is entered then exitted,ui,JDT,akiezun@gmail.com,14,304
+1835,product: platform component: ui summary: tasklist: hover help not enough for long lines (1gd2i9y),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+6325,product: platform component: swt summary: no busy cursor for open on selection,swt,Platform,steve_northover@hotmail.com,81,103
+121368,product: cdt component: cdt-core summary: scannerutility.createreconciledpath() speed up,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+14153,product: jdt component: ui summary: npe changing classpath variable,ui,JDT,martinae@microsoft.com,66,426
+7520,product: platform component: team summary: syncview: cannot checkin or get in both mode,team,Platform,James_Moody@ca.ibm.com,2,173
+109080,product: cdt component: cdt-build summary: managed-build: per-folder settings,cdt-build,CDT,mikhail.sennikovskiy@gmail.com,67,21
+3202,product: jdt component: core summary: dcr - jm - merge java element deltas with resource deltas (1g2b60z),core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+12593,product: jdt component: ui summary: code assist inserts fully qualified type names (ignoring preferences),ui,JDT,martinae@microsoft.com,66,426
+108715,product: cdt component: cdt-build summary: [managed build] suggestions for dependency tracking,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+87673,product: cdt component: cdt-build summary: mbs 3.0 design for supporting multiple tool inputs and outputs,cdt-build,CDT,leo.treggiari@intel.com,64,58
+11826,product: jdt component: ui summary: build exclusion filter should be trimmed prior to storing,ui,JDT,martinae@microsoft.com,66,426
+5955,product: jdt component: core summary: npe in lookupenvironment,core,JDT,kent_johnson@ca.ibm.com,60,69
+9182,product: platform component: team summary: out-of-sync cvs meta-files may be causing builder errors,team,Platform,Michael.Valenta@ibm.com,7,110
+108069,product: cdt component: cdt-core summary: outofmemory occurred when working with a bigger project,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+3266,product: jdt component: core summary: changing kind of classpath entry reports 1 delta (1gdtrtp),core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+2393,product: platform component: ui summary: wizard-wizard: initial selection should be set (1gey1vd),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+336,product: pde component: ui summary: convert to pde plugin failes when plugin.xml exists locally (1gkzn7z),ui,PDE,dejan@ca.ibm.com,35,632
+48717,product: cdt component: cdt-core summary: ld error parser always assumes error conditions,cdt-core,CDT,alain@qnx.com,15,407
+28285,product: jdt component: ui summary: [pde.junit] nosuchmethoderror on pde junit launch configurations,ui,JDT,erich_gamma@ch.ibm.com,43,399
+7852,product: platform component: ui summary: [key bindings] arrow keys as accelerators for contributed actions,ui,Platform,Platform-UI-Inbox@eclipse.org,10,11
+76821,product: cdt component: cdt-build summary: [standard build] minor ui bug in c/c++ make project properties page,cdt-build,CDT,dinglis@qnx.com,37,148
+9815,product: jdt component: ui summary: extract method: incorrect extraction of string literals (compile errors),ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+8524,product: platform component: ui summary: workbench preferences error message typo,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+5872,product: platform component: ui summary: new submenu is inconsistent,ui,Platform,unknown@eclipse.org,83,52
+2436,product: platform component: ui summary: project wizard error if location not specified. (1gf61fj),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+24142,product: jdt component: ui summary: use refactoring programatically [refactoring],ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+62571,"product: cdt component: cdt-parser summary: [scanner] unable to macro expand operator ## with ""0xxyz"" argument",cdt-parser,CDT,john.camelon@gmail.com,56,302
+10681,"product: platform component: user assistance summary: tomcatappserver.boolean add(string webapp, string plugin, string path) should log exception",user assistance,Platform,birsan@ca.ibm.com,19,54
+7636,product: jdt component: core summary: can't do code assist after field with local class,core,JDT,david_audel@fr.ibm.com,33,69
+70161,product: cdt component: cdt-core summary: tvt3.0: assembly is untranslated in c++ file types,cdt-core,CDT,twolff@ca.ibm.com,82,16
+10759,product: jdt component: core summary: ast: incorrect length of simplename (subsubnode of arraytype),core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+134292,product: cdt component: cdt-build summary: issues with updating config and conversion target list in manage config dialog and generating ids for resource configuations.,cdt-build,CDT,leo.treggiari@intel.com,64,58
+9543,product: jdt component: ui summary: junit testcase wizard comes up in an error condition,ui,JDT,Markus_Huebscher@oti.com,6,21
+78816,product: cdt component: cdt-debug summary: terminate session when gdb is not connected to the target causes error,cdt-debug,CDT,alain@qnx.com,15,407
+6935,product: jdt component: ui summary: codecompletion: fill arguments feature bugs (int1211),ui,JDT,martinae@microsoft.com,66,426
+8851,product: platform component: resources summary: saving workbench throws outofmemoryerror,resources,Platform,dj.houghton@ca.ibm.com,39,82
+6310,product: platform component: resources summary: some runtime tests fail on platforms other than win2k,resources,Platform,debbie_wilson@ca.ibm.com,34,35
+25678,product: cdt component: cdt-core summary: search for references (outline pane) broken,cdt-core,CDT,aniefer@gmail.com,18,288
+10483,product: platform component: swt summary: swt controlexample directorydialog does not choose directories,swt,Platform,kcornell@ca.ibm.com,58,10
+2543,product: platform component: ui summary: [jface text] undo text does not work in overwrite mode (1gfqh41),ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+3599,product: jdt component: ui summary: initial java perspective switch is very slow (1gejhtl),ui,JDT,erich_gamma@ch.ibm.com,43,399
+4967,product: jdt component: ui summary: automatic code assist needs to be smarter #3,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+27194,product: jdt component: ui summary: stringmatcher bug - matches too much,ui,JDT,daniel_megert@ch.ibm.com,32,216
+5096,product: platform component: swt summary: filedialog doesn't allow to set file name,swt,Platform,grant_gayed@ca.ibm.com,46,44
+2086,product: platform component: ui summary: workbench should be ready to not be called from eclipse.exe (1ge58u1),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+8854,product: pde component: ui summary: action to update build path not available,ui,PDE,dejan@ca.ibm.com,35,632
+77391,product: cdt component: cdt-parser summary: [iproblems] no filename/message associated with iproblem in list.tcc,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+7235,product: platform component: ui summary: [contributions] need dispose() for action delegates,ui,Platform,simon_arsenault@ca.ibm.com,80,46
+19974,product: jdt component: ui summary: packages view: back / forward buttons do not show frame name [package explorer],ui,JDT,erich_gamma@ch.ibm.com,43,399
+51485,product: cdt component: cdt-parser summary: [templates] explicit specializations,cdt-parser,CDT,aniefer@gmail.com,18,288
+10382,product: jdt component: ui summary: super type hierarchy computed on selection change in outline,ui,JDT,akiezun@gmail.com,14,304
+20951,product: jdt component: text summary: breakpoints remain on same line number no matter what,text,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+8477,product: platform component: team summary: create patch dialog should restrict size of project list.,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+19703,"product: jdt component: text summary: [templates] illegal variable name produced by ""iterate over array w/ temporary"" wizard",text,JDT,platform-text-inbox@eclipse.org,75,22
+10461,product: platform component: ui summary: please make property dialog resizable,ui,Platform,Randy_Giffen@oti.com,11,54
+4385,product: jdt component: core summary: qualifiedallocationexpression.sourceend incorrect if type is an anonymouslocaltypedeclaration,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+6543,product: pde component: ui summary: missing mnemonics in preference pages,ui,PDE,dejan@ca.ibm.com,35,632
+34383,product: pde component: ui summary: list of plugins is incorrect when not using default location,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+15615,product: jdt component: ui summary: new packages are not shown in packages view,ui,JDT,Claude_Knaus@oti.com,0,133
+99867,product: cdt component: cdt-core summary: [indexer] layout problem w/the search view,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+10492,product: jdt component: ui summary: no feedback when setting wrong path for external javadoc directory,ui,JDT,unknown@eclipse.org,83,52
+8510,product: platform component: swt summary: dialogs in enlightenment are way too small,swt,Platform,grant_gayed@ca.ibm.com,46,44
+7496,product: jdt component: core summary: interface shows as class under content assist,core,JDT,philippe_mulet@fr.ibm.com,74,207
+12830,product: jdt component: ui summary: npe going to line in java editor,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+36020,product: cdt component: cdt-core summary: scannerexception: invalid floating point @ offset 4494,cdt-core,CDT,jcamelon@rational.com,49,50
+8697,product: jdt component: core summary: 2 compiler bugs: the operator unkown operator is undefined and defined in an inherited type and an enclosing scope,core,JDT,philippe_mulet@fr.ibm.com,74,207
+23498,product: jdt component: text summary: 'add closing parent' feature improvement,text,JDT,jdt-text-inbox@eclipse.org,50,171
+10216,product: jdt component: ui summary: filesystem is accessed too often [general issue],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+73801,product: cdt component: cdt-debug summary: function breakpoints set from c view aren't shown in editor,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+4590,product: platform component: swt summary: verifyevent values ignored (1g7g5y3),swt,Platform,steve_northover@hotmail.com,81,103
+9370,"product: platform component: ui summary: ""open recent"" menu remains disabled when closing file",ui,Platform,lynne_kues@us.ibm.com,65,31
+3673,product: jdt component: ui summary: open type profile (1gelizg),ui,JDT,erich_gamma@ch.ibm.com,43,399
+18246,product: pde component: ui summary: invaj should not exist,ui,PDE,dejan@ca.ibm.com,35,632
+9431,product: platform component: team summary: team 2.0: replace with needs defines semantics,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+7656,product: cdt component: cdt-debug summary: r2: load occurrence breakpoint not supported,cdt-debug,CDT,chanskw@ca.ibm.com,27,14
+4587,product: platform component: swt summary: styledtext - support italic fonts and italic font style (1g60c4x),swt,Platform,eclipse.felipe@gmail.com,41,16
+27133,product: pde component: ui summary: too many /bins on the class path,ui,PDE,wassim.melhem@gmail.com,86,303
+66744,product: cdt component: cdt-core summary: open declaration cannot find enumeration,cdt-core,CDT,aniefer@gmail.com,18,288
+11699,product: jdt component: ui summary: problems with java preference page,ui,JDT,akiezun@gmail.com,14,304
+4782,product: platform component: ui summary: yam: focused view by keyboard does not move to foreground (1gi7fxr),ui,Platform,n.a.edgar@gmail.com,69,58
+11748,product: jdt component: ui summary: switch to new decoratormanager api,ui,JDT,daniel_megert@ch.ibm.com,32,216
+6553,"product: jdt component: ui summary: [render] no icon shown for transient, volatile keywords",ui,JDT,martinae@microsoft.com,66,426
+20890,product: jdt component: text summary: bad indentation in formatting a selected region in the java editor,text,JDT,jdt-text-inbox@eclipse.org,50,171
+35878,product: cdt component: cdt-core summary: parser throws nullpointerexception,cdt-core,CDT,jcamelon@rational.com,49,50
+80823,product: cdt component: cdt-parser summary: [f3] open declaration should find #defines of basic_types,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+11759,product: jdt component: ui summary: highlight of current line in java editor is slow,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+10762,product: jdt component: ui summary: generate getter and setter of a field starting with the 'f' letter,ui,JDT,martinae@microsoft.com,66,426
+9614,product: jdt component: ui summary: template: {return_type} puts incorrect form of type name,ui,JDT,Claude_Knaus@oti.com,0,133
+33418,product: pde component: ui summary: npe at org.eclipse.pde.internal.ui.editor.feature.portabilitysection,ui,PDE,dejan@ca.ibm.com,35,632
+6686,product: platform component: ui summary: should project delete not delete actual files in custom location?,ui,Platform,n.a.edgar@gmail.com,69,58
+10683,product: pde component: ui summary: decorators for binary plug-in projects stay around even when project is brought from repository,ui,PDE,dejan@ca.ibm.com,35,632
+10073,product: jdt component: ui summary: template variables don't expand,ui,JDT,erich_gamma@ch.ibm.com,43,399
+111004,product: cdt component: cdt-core summary: problems with open class toolbar icon,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+8351,product: jdt component: ui summary: organize imports tries to resolve local variables as classes,ui,JDT,erich_gamma@ch.ibm.com,43,399
+19855,product: jdt component: ui summary: test class not found in project [junit],ui,JDT,erich_gamma@ch.ibm.com,43,399
+10466,"product: jdt component: core summary: ""cannot reference a field before it is defined"" - compiler bug?",core,JDT,philippe_mulet@fr.ibm.com,74,207
+36357,product: pde component: ui summary: npe showing plugins view,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7354,product: jdt component: core summary: compatibility with javac when no output directory is specified,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+19277,product: pde component: ui summary: wrong plugins are ignored,ui,PDE,dejan@ca.ibm.com,35,632
+50532,product: pde component: build summary: problem building features,build,PDE,pde-build-inbox@eclipse.org,71,57
+10393,product: jdt component: ui summary: classes should have the same actions as cu's wherever possible,ui,JDT,erich_gamma@ch.ibm.com,43,399
+26488,product: pde component: ui summary: npe trying to launch runtime workbench,ui,PDE,wassim.melhem@gmail.com,86,303
+75024,product: cdt component: cdt-core summary: build console dramatically slows down builds,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+5542,product: jdt component: core summary: too many deltas are fired on each javamodel operation,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+38657,product: cdt component: cdt-core summary: parser fails on conversion functions declarations,cdt-core,CDT,alain@qnx.com,15,407
+83997,product: cdt component: cdt-parser summary: anonymous namespace not supported,cdt-parser,CDT,john.camelon@gmail.com,56,302
+6255,product: jdt component: ui summary: extract method: incorrect method created -> semantic diff,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+5893,product: platform component: ui summary: should be possible to have views initially appear in shortcut bar,ui,Platform,unknown@eclipse.org,83,52
+47636,product: cdt component: cdt-parser summary: char* and char[] are treated as different types (affects outline view),cdt-parser,CDT,aniefer@gmail.com,18,288
+9748,product: platform component: team summary: incoming additions from another branch have wrong timestamp,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+5821,product: jdt component: core summary: refactor > rename renames local variable instead of member in case of name clash,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+24746,product: jdt component: ui summary: action's need to handle deleted files in file system more gracefully,ui,JDT,Claude_Knaus@oti.com,0,133
+3938,product: jdt component: ui summary: suggestion for nls tool (1gi3k1b),ui,JDT,erich_gamma@ch.ibm.com,43,399
+49251,product: pde component: ui summary: property editor action to set objectclass filters out types wanted,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7959,product: platform component: swt summary: potential problems when running on big endian machines,swt,Platform,grant_gayed@ca.ibm.com,46,44
+108447,product: cdt component: cdt-debug summary: debugging is terminated while debugging a c++ application using gtkmm,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+12651,product: jdt component: core summary: npe out of the completionengine,core,JDT,david_audel@fr.ibm.com,33,69
+86828,product: cdt component: cdt-parser summary: [bindings] simple code with struct declaration/definition can't resolve binding for the type specifier's name,cdt-parser,CDT,aniefer@gmail.com,18,288
+6704,"product: jdt component: ui summary: ""mycorporation"" copyright in jdt.ui",ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+7344,product: jdt component: core summary: search - write acces give wrong result,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+53807,product: pde component: ui summary: custom build.xml files are deleted by the site.xml editor's build function,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+4896,product: platform component: team summary: update new cvs repo wizard (1gk9cpm),team,Platform,Michael.Valenta@ibm.com,7,110
+16699,product: pde component: ui summary: eclipse should not find classes in plugin's bin directory,ui,PDE,dejan@ca.ibm.com,35,632
+40422,product: cdt component: cdt-parser summary: [parser] need ast representation for ptrtomember vars,cdt-parser,CDT,john.camelon@gmail.com,56,302
+70365,product: cdt component: cdt-core summary: [binary parser] no support for hp-ux binary files,cdt-core,CDT,victor.lenet@gmail.com,85,82
+87978,product: cdt component: cdt-core summary: npe is generated when pressing ok in project properties c/c++ indexer page,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+2221,product: platform component: ui summary: new wizard disables finish even with valid selection (1geapg3),ui,Platform,Randy_Giffen@oti.com,11,54
+13817,product: jdt component: ui summary: problems with organize imports,ui,JDT,martinae@microsoft.com,66,426
+11913,product: pde component: ui summary: white border at top of plugin.xml editor hides text in high contrast black,ui,PDE,dejan@ca.ibm.com,35,632
+11050,product: jdt component: ui summary: devide sorting in two main parts: fields and methodes,ui,JDT,martinae@microsoft.com,66,426
+10617,product: platform component: team summary: missing properties sheet contribution for remote resources,team,Platform,James_Moody@ca.ibm.com,2,173
+5774,product: jdt component: ui summary: unpredicatable behaviour on double click in packages view,ui,JDT,erich_gamma@ch.ibm.com,43,399
+21008,"product: pde component: doc summary: ctabitem constructor: mention ""table"" instead of ""ctabfolder""",doc,PDE,veronika_irvine@yahoo.com,84,63
+2342,product: platform component: ui summary: new tasks appear in middle of list (1get6td),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+11235,product: jdt component: ui summary: override indicator in hierarchy view,ui,JDT,erich_gamma@ch.ibm.com,43,399
+100637,"product: cdt component: cdt-parser summary: after editing a cpp/h file, gettranslationunit returns still returns the old translationunit",cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+78308,product: cdt component: cdt-core summary: cview renaming a project does not update the cview,cdt-core,CDT,alain@qnx.com,15,407
+38964,product: cdt component: cdt-debug summary: error while trying to suspend debugger,cdt-debug,CDT,alain@qnx.com,15,407
+3550,product: jdt component: text summary: gotomarker does not set source range and does not update outline view (1g7sxjg) [editor],text,JDT,jdt-text-inbox@eclipse.org,50,171
+27492,product: jdt component: ui summary: assertiion failed when adding source folder to project,ui,JDT,martinae@microsoft.com,66,426
+26440,product: cdt component: cdt-core summary: cursor keys on numeric keypad don't work,cdt-core,CDT,alain@qnx.com,15,407
+1893,product: platform component: compare summary: compare viewer doesn't scroll to last line (1gbb34n),compare,Platform,andre_weinand@ch.ibm.com,17,76
+32212,product: pde component: ui summary: pde plugin.xml outliner: should not select whole element,ui,PDE,wassim.melhem@gmail.com,86,303
+78488,product: cdt component: cdt-debug-cdi-gdb summary: quotes in condition option in the command -break-insert,cdt-debug-cdi-gdb,CDT,alain@qnx.com,15,407
+4258,product: jdt component: ui summary: dcr: global text search/replace (1gkma73),ui,JDT,erich_gamma@ch.ibm.com,43,399
+100602,product: cdt component: cdt-debug-cdi-gdb summary: when a variable is declared volatile its format cannot be changed,cdt-debug-cdi-gdb,CDT,alain@qnx.com,15,407
+16454,product: pde component: ui summary: unable to paste text into text box on information page of feature editor,ui,PDE,dejan@ca.ibm.com,35,632
+33010,product: pde component: ui summary: 2.1rc1; test e5.2 exporting features dailog deos not close.,ui,PDE,wassim.melhem@gmail.com,86,303
+78217,product: cdt component: cdt-parser summary: [parser][iproblems] template operator has invalid iproblem with blank description,cdt-parser,CDT,john.camelon@gmail.com,56,302
+87909,"product: cdt component: cdt-parser summary: syntax error while invoking methods using ""this"" operator",cdt-parser,CDT,john.camelon@gmail.com,56,302
+9542,product: jdt component: text summary: j editor: link outline to editor confusing for user,text,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+20762,product: pde component: ui summary: plugin import wizard missing messages,ui,PDE,dejan@ca.ibm.com,35,632
+72716,"product: cdt component: cdt-parser summary: [search] search actions in ""magic"" include files do not work.",cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+7957,product: platform component: search summary: null pointer exception invoking search in pde,search,Platform,erich_gamma@ch.ibm.com,43,399
+25539,product: jdt component: core summary: unexpected inaccurate search results,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+28547,product: jdt component: ui summary: automatic detection of source folders doesn't work,ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+6634,product: platform component: resources summary: search order for *.jar files (including fragment directories),resources,Platform,debbie_wilson@ca.ibm.com,34,35
+17966,product: jdt component: ui summary: new working set dialog missing java icon,ui,JDT,erich_gamma@ch.ibm.com,43,399
+10831,"product: platform component: team summary: cvs preferences should be under ""team""",team,Platform,James_Moody@ca.ibm.com,2,173
+12113,product: pde component: build summary: create plug-in jars fails,build,PDE,dj.houghton@ca.ibm.com,39,82
+35828,product: pde component: ui summary: npe after closing plugin.xml editor,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7361,product: platform component: swt summary: add getoffsetatline api,swt,Platform,knut_radloff@us.ibm.com,62,72
+64732,product: cdt component: cdt-build summary: classcastexception while deleting of build configuration,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+9189,product: platform component: team summary: exception synchonizing with stream,team,Platform,Michael.Valenta@ibm.com,7,110
+5456,product: platform component: ui summary: esc doesn't cancel code assist anymore,ui,Platform,n.a.edgar@gmail.com,69,58
+4805,product: platform component: swt summary: resize during setredraw causes cheese (1gj4urx),swt,Platform,steve_northover@hotmail.com,81,103
+22662,product: jdt component: ui summary: iclasspathcontainerpage needs more context [build path],ui,JDT,martinae@microsoft.com,66,426
+26707,product: jdt component: text summary: [smart editing] smart indent - unexpected behavior,text,JDT,jdt-text-inbox@eclipse.org,50,171
+17600,product: jdt component: ui summary: source actions and clear case [code manipulation],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+100415,product: cdt component: cdt-parser summary: [problembinding] on function expecting a pointer when a pointer to pointer is used,cdt-parser,CDT,aniefer@gmail.com,18,288
+54029,product: cdt component: cdt-parser summary: classcastexception in astsimpletypespecifier.gettypespecifier,cdt-parser,CDT,john.camelon@gmail.com,56,302
+32277,product: pde component: build summary: need descriptions for targets in build.xml,build,PDE,pde-core-inbox@eclipse.org,72,43
+9383,product: jdt component: ui summary: error with show selected elements only,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+43491,product: cdt component: cdt-core summary: cdt does not parse gcc error messages correctly,cdt-core,CDT,cdt-build-inbox@eclipse.org,22,89
+10602,product: jdt component: ui summary: inconsitent size of 'browse colors' buttons in pref pages,ui,JDT,erich_gamma@ch.ibm.com,43,399
+24914,product: jdt component: ui summary: inline method - breaks code when inlining into overridden methods [refactoring],ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+9673,product: jdt component: ui summary: editor background color - no effect on other viewers,ui,JDT,andre_weinand@ch.ibm.com,17,76
+5877,product: jdt component: ui summary: rename package -> selection incorrect,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+12876,product: jdt component: ui summary: strange highlight after undo,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+9215,"product: platform component: team summary: ""share projects"": npe in cvssynccompareinput.createsyncelements",team,Platform,James_Moody@ca.ibm.com,2,173
+35645,product: pde component: ui summary: report problems during schema preview to the user,ui,PDE,cherie.wong@gmail.com,28,48
+18375,product: jdt component: ui summary: java perspective slow to switch to the first time,ui,JDT,erich_gamma@ch.ibm.com,43,399
+32637,product: pde component: ui summary: [rc1] a8.4 unable to set label attribute to 'name',ui,PDE,dejan@ca.ibm.com,35,632
+36692,product: cdt component: cdt-core summary: problem parsing loki's reference singleton.h impl,cdt-core,CDT,jcamelon@rational.com,49,50
+839,product: platform component: user assistance summary: displayhelp api should take a single help context (1gc2m9m),user assistance,Platform,konradk@ca.ibm.com,63,22
+59893,product: cdt component: cdt-parser summary: [content assist] const class references should only retrieve const methods as proposals,cdt-parser,CDT,aniefer@gmail.com,18,288
+28323,product: pde component: ui summary: runant() does not use mainpreferencepage.getbuildscriptname().,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+95786,product: cdt component: cdt-parser summary: dom parser: global operator delete not found,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+8757,product: jdt component: ui summary: type hierarchy view - error decoration not removed when error fixed,ui,JDT,martinae@microsoft.com,66,426
+10966,product: jdt component: ui summary: [prefs] would like per-project formatter settings,ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+26862,product: jdt component: ui summary: packages view in java browsing updates to navigator selection [browsing],ui,JDT,daniel_megert@ch.ibm.com,32,216
+12839,product: jdt component: ui summary: ability to see *.class method return types and parameters,ui,JDT,erich_gamma@ch.ibm.com,43,399
+23478,product: cdt component: cdt-core summary: class org.eclipse.cdt.internal.core.model.include not fully implimented,cdt-core,CDT,alain@qnx.com,15,407
+2548,product: platform component: compare summary: project compare should open viewing selected file (1gfmrp6),compare,Platform,andre_weinand@ch.ibm.com,17,76
+49044,"product: cdt component: cdt-core summary: default binary parser for windows should not be ""elf""",cdt-core,CDT,cdt-build-inbox@eclipse.org,22,89
+90481,product: cdt component: cdt-build summary: shared tool options proposal,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+52128,product: cdt component: cdt-core summary: open include opens external files multiple times,cdt-core,CDT,alain@qnx.com,15,407
+12212,product: jdt component: ui summary: inline temp: does not work on empty selection,ui,JDT,akiezun@gmail.com,14,304
+73118,product: cdt component: cdt-core summary: refactoringaction slowing down the ceditor,cdt-core,CDT,alain@qnx.com,15,407
+17299,product: pde component: ui summary: f1: a10.6: missing string resource,ui,PDE,dejan@ca.ibm.com,35,632
+16305,product: pde component: build summary: org.eclipse.jdt.source is missing a subdirectory for org.junit_3.7.0,build,PDE,rodrigo@peretti.ca,77,23
+13946,product: jdt component: ui summary: highlight current line doesn't keep up with cursor,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+11775,product: jdt component: ui summary: generating from javadoc.xml failed,ui,JDT,unknown@eclipse.org,83,52
+4881,product: platform component: team summary: stream sync is very slow (1gh1j3d),team,Platform,Michael.Valenta@ibm.com,7,110
+11852,product: pde component: build summary: create plug-in jars fails ...,build,PDE,dj.houghton@ca.ibm.com,39,82
+52120,product: cdt component: cdt-parser summary: document parsersymboltableexception,cdt-parser,CDT,aniefer@gmail.com,18,288
+12528,product: jdt component: ui summary: refactor rename indentifier detection,ui,JDT,akiezun@gmail.com,14,304
+5120,product: jdt component: ui summary: empty popup doc in java editor,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+24576,product: jdt component: ui summary: move to top level: incorrect this in constructor calls,ui,JDT,akiezun@gmail.com,14,304
+101,product: platform component: team summary: help contexts need to be added for wizards (1genicj),team,Platform,jean-michel_lemieux@ca.ibm.com,52,23
+6800,product: platform component: ui summary: npe in import wizard,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+86688,product: cdt component: cdt-parser summary: [bindings] friend declaration in local class with unqualified name doesn't use scopes outside innermost enclosing non-class scope during lookup,cdt-parser,CDT,aniefer@gmail.com,18,288
+29507,product: jdt component: ui summary: dialog in refactor->rename reapears,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+10634,product: jdt component: core summary: problem with compiling some java classes; class not visible,core,JDT,philippe_mulet@fr.ibm.com,74,207
+24271,product: jdt component: ui summary: source folders: sort java packages and simple folders together,ui,JDT,daniel_megert@ch.ibm.com,32,216
+12683,product: jdt component: ui summary: invalid thread access self hosting using java search,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+6513,product: platform component: ui summary: tasks view filter settings not remembered on startup,ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+13401,product: jdt component: ui summary: editor doesn't show problems when opening working copy,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+40005,product: cdt component: cdt-core summary: save all caused exception,cdt-core,CDT,alain@qnx.com,15,407
+46065,product: pde component: ui summary: duplicate plug-in warning when launching runtime-workbench,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7672,product: platform component: ui summary: need public access to globalbuildaction,ui,Platform,simon_arsenault@ca.ibm.com,80,46
+17217,product: pde component: ui summary: list of choices for required plugins comes up empty in feature editor,ui,PDE,dejan@ca.ibm.com,35,632
+20984,product: jdt component: ui summary: override methods doesn't detect anonymous inner or local classes [code manipulation],ui,JDT,martinae@microsoft.com,66,426
+7992,product: jdt component: ui summary: extract method: npe (file with compile errors),ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+25579,product: cdt component: cdt-core summary: cannot open system header files,cdt-core,CDT,alain@qnx.com,15,407
+234,product: platform component: team summary: npe in sync (1gj4w10),team,Platform,James_Moody@ca.ibm.com,2,173
+1767,product: platform component: swt summary: display ascii for values greater than 127 fails (1gle8i5),swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+15210,product: jdt component: text summary: on-the-fly check for errors should wait until you stop typing,text,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+77024,product: cdt component: cdt-parser summary: implicit object parameters & arguments must be considered,cdt-parser,CDT,aniefer@gmail.com,18,288
+57126,product: cdt component: cdt-core summary: changing the binary parser from elf to pe does not always affect existing binaries,cdt-core,CDT,alain@qnx.com,15,407
+4167,product: jdt component: ui summary: cannot delete then save a file of same name in same location (1gk0e3i),ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+14588,product: jdt component: core summary: nullpointerexception in util.equalarraysornull,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+5751,product: pde component: ui summary: pde launcher should not require a project to be selected,ui,PDE,dejan@ca.ibm.com,35,632
+62009,product: cdt component: cdt-parser summary: [scanner] out-of-bound exception occurs when # operator is not followed by a symbol,cdt-parser,CDT,john.camelon@gmail.com,56,302
+26409,product: jdt component: ui summary: abstractfilter incorrectly implements isfilterproperty,ui,JDT,daniel_megert@ch.ibm.com,32,216
+23900,product: jdt component: ui summary: quick fix to create method fails [quick fix],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+20096,product: pde component: ui summary: no repaints behind progress monitor in pde editor,ui,PDE,dejan@ca.ibm.com,35,632
+23086,product: jdt component: ui summary: pull-up method should help pulling up dependent methods/fields [refactoring],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+9564,product: jdt component: ui summary: junit wizard: should generate comments for setup/teardown,ui,JDT,Markus_Huebscher@oti.com,6,21
+45818,product: cdt component: cdt-debug summary: npe when closing the workbench,cdt-debug,CDT,alain@qnx.com,15,407
+6716,product: jdt component: ui summary: usability: packages view/execution arguments vs. run icon,ui,JDT,erich_gamma@ch.ibm.com,43,399
+61197,product: cdt component: cdt-parser summary: endless loop with memory allocation when parsing initializer clause,cdt-parser,CDT,dinglis@qnx.com,37,148
+7347,product: jdt component: ui summary: strange editing behaviour in java editor,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+3770,product: jdt component: ui summary: java preference page needs better grouping (1gerrew),ui,JDT,Claude_Knaus@oti.com,0,133
+9312,product: platform component: team summary: checkout progress bar doesn't reflect reality,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+9697,product: pde component: ui summary: npe in preferences page,ui,PDE,dejan@ca.ibm.com,35,632
+25506,product: jdt component: text summary: [smart editing] smart brackets adds extra close paren,text,JDT,jdt-text-inbox@eclipse.org,50,171
+62015,product: cdt component: cdt-core summary: indexer to not rely on file extension for translation unit,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+137652,product: cdt component: cdt-core summary: title wrong on include paths preference page,cdt-core,CDT,recoskie@ca.ibm.com,76,25
+92586,product: cdt component: cdt-core summary: [parser] classcastexception in cppfunction#isstatic() line 412,cdt-core,CDT,aniefer@gmail.com,18,288
+82129,product: cdt component: cdt-parser summary: type cache update on save hangs eclipse,cdt-parser,CDT,john.camelon@gmail.com,56,302
+5094,product: jdt component: ui summary: template pref page could use in-place editing,ui,JDT,Claude_Knaus@oti.com,0,133
+26378,product: jdt component: ui summary: copy/paste leaves characters,ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+47559,product: cdt component: cdt-core summary: creating nameless make targets,cdt-core,CDT,dinglis@qnx.com,37,148
+6390,product: platform component: team summary: preference for specifying compression level (e.g. -z3),team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+16966,product: pde component: ui summary: npe in custom plug-in wizard,ui,PDE,dejan@ca.ibm.com,35,632
+76575,product: cdt component: cdt-parser summary: [content assist] fails when using string type,cdt-parser,CDT,cdtdoug@gmail.com,25,129
+8194,product: jdt component: ui summary: problems with the externalize dialog,ui,JDT,akiezun@gmail.com,14,304
+9934,product: platform component: team summary: too may prompts to overwrite,team,Platform,James_Moody@ca.ibm.com,2,173
+10834,product: platform component: ui summary: resource perspective used instead of type hierarchy perspective,ui,Platform,simon_arsenault@ca.ibm.com,80,46
+14518,product: jdt component: ui summary: npe during package view shutdown,ui,JDT,erich_gamma@ch.ibm.com,43,399
+9009,product: jdt component: core summary: classcastexception creating an invalid method,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+15110,product: jdt component: ui summary: error running a java app run configuration under 0502,ui,JDT,erich_gamma@ch.ibm.com,43,399
+10309,product: jdt component: ui summary: copied class files can't be opened,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+20395,"product: pde component: ui summary: tvt2: ""workbench"" should be ""window"" in add extension wizard",ui,PDE,dejan@ca.ibm.com,35,632
+5276,product: jdt component: ui summary: illegalargumentexception in texteditor,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+105196,"product: cdt component: cdt-debug summary: [cdi]: add ""enabled"" flag to the ""set...breakpoint"" methods",cdt-debug,CDT,ken.ryall@gmail.com,59,13
+45668,product: cdt component: cdt-core summary: additional path and symbol tab needs edit buttons,cdt-core,CDT,dinglis@qnx.com,37,148
+90623,product: cdt component: cdt-parser summary: [ibinding] invalid problembinding with cpp spec 7.1.3-2,cdt-parser,CDT,aniefer@gmail.com,18,288
+38434,product: cdt component: cdt-core summary: npe in cmodelbuilder.createvariablespecification(...),cdt-core,CDT,alain@qnx.com,15,407
+6361,product: platform component: swt summary: items appearing to be floating in swt table,swt,Platform,veronika_irvine@yahoo.com,84,63
+46454,product: pde component: ui summary: classpath container does not get resolved upon startup,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+2335,product: platform component: ui summary: post-release: bugs in stringmatcher (1get09o),ui,Platform,n.a.edgar@gmail.com,69,58
+4909,product: platform component: swt summary: ec: combo.settext doesn't work on linux,swt,Platform,grant_gayed@ca.ibm.com,46,44
+107296,product: cdt component: cdt-parser summary: hang when changing from ctags indexer to full indexer,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+35440,product: pde component: ui summary: rc3 failing to import binary projects properly,ui,PDE,wassim.melhem@gmail.com,86,303
+29874,product: jdt component: text summary: illegalargumentexception on scrolling in java editor,text,JDT,jdt-text-inbox@eclipse.org,50,171
+92793,product: cdt component: cdt-parser summary: access declarations not handled,cdt-parser,CDT,mschorn.eclipse@gmx.at,68,108
+4807,product: platform component: swt summary: text.setechochar spec should say 0 < = char < 128 (1gj6cdm),swt,Platform,carolynmacleod4@gmail.com,21,23
+3361,product: jdt component: core summary: jck 1.4 - icls - field from outer class and inherited public field in nested class (1gk7laa),core,JDT,philippe_mulet@fr.ibm.com,74,207
+2644,product: platform component: ui summary: contributed actions should have hover and disabled images (1ghul80),ui,Platform,Randy_Giffen@oti.com,11,54
+8685,product: jdt component: core summary: exception while deleting a method,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+13217,product: jdt component: ui summary: current line highlighting: cheese,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+24912,product: jdt component: ui summary: inline method - inline method breaks code when inlining into a field initializer [refactoring],ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+75916,product: cdt component: cdt-core summary: cdt: errors and exceptions in log if you try create a c++ project with same name/different case.,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+68915,product: cdt component: cdt-debug summary: invalid values in the variables view,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+47812,product: pde component: ui summary: should not report a warning when the import is optional,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+45612,product: cdt component: cdt-core summary: standard make paths and symbols ui tab mauls new button,cdt-core,CDT,dinglis@qnx.com,37,148
+15108,product: jdt component: ui summary: add import deletes code,ui,JDT,martinae@microsoft.com,66,426
+20875,product: jdt component: ui summary: surround with try/catch - inconsistent names [refactoring],ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+10507,product: cdt component: cdt-other summary: creating a remote project with invalid info,cdt-other,CDT,dmcknigh@ca.ibm.com,40,28
+29755,product: jdt component: ui summary: attach source does not allow one to select a folder... [build path],ui,JDT,martinae@microsoft.com,66,426
+26391,"product: jdt component: ui summary: optimize imports removes disambuating statement, introducing compile error",ui,JDT,martinae@microsoft.com,66,426
+65461,product: cdt component: cdt-build summary: managed builder: file level build settings support,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+28185,product: jdt component: text summary: 14% of java file opening time spent in textviewer .applytextpresentation,text,JDT,jdt-text-inbox@eclipse.org,50,171
+50742,product: pde component: ui summary: new-plugin wizards forget to add ide.jar to dependencies,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+13534,product: jdt component: ui summary: no completion in javadoc @see tags,ui,JDT,martinae@microsoft.com,66,426
+32305,product: pde component: ui summary: npe opening context menu in schema editor,ui,PDE,dejan@ca.ibm.com,35,632
+52649,product: pde component: ui summary: consider hiding the option to generate manifests,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+24413,"product: jdt component: ui summary: ""quick fix"" for non-existent method of inner class creates it for outer class",ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+36794,product: cdt component: cdt-core summary: classcastexception for a template with no parameters,cdt-core,CDT,jcamelon@rational.com,49,50
+5327,product: jdt component: ui summary: illegalargumentexception from brackethighlighter,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+45172,"product: cdt component: cdt-core summary: add infos on build, which target is being build",cdt-core,CDT,sevoy@ca.ibm.com,79,75
+24278,product: jdt component: ui summary: use super type: problems with arrays,ui,JDT,akiezun@gmail.com,14,304
+90632,product: cdt component: cdt-parser summary: [parser] invalid syntax error with cpp 8.2-4,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+9784,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: unable to self-host org.eclipse.update.core,update  (deprecated - use eclipse>equinox>p2),Platform,klicnik@ca.ibm.com,61,18
+9583,product: jdt component: core summary: dom : self encapsulate field: npe,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+25266,product: jdt component: ui summary: junit: would like the ability to specify test workspace location,ui,JDT,erich_gamma@ch.ibm.com,43,399
+16122,product: jdt component: ui summary: npe when doing f3 on type inside an 'instanceof' statement,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+44926,product: cdt component: cdt-parser summary: add extensibility to gracefully handle preprocessor exceptions,cdt-parser,CDT,gheorghe@ca.ibm.com,45,130
+137821,"product: cdt component: cdt-core summary: coremodel.isvalidsourceunitname() returns true for ""hh"" fies",cdt-core,CDT,cdtdoug@gmail.com,25,129
+6422,product: jdt component: core summary: resource copy should not occur as soon as one source folder overlap the binary output,core,JDT,philippe_mulet@fr.ibm.com,74,207
+78784,product: cdt component: cdt-parser summary: [parser][iproblem] long long causes invalid iproblems with operator <,cdt-parser,CDT,john.camelon@gmail.com,56,302
+14023,product: jdt component: core summary: npe in build notifier,core,JDT,kent_johnson@ca.ibm.com,60,69
+35290,product: pde component: build summary: [doc] property naming in the builder and the packager,build,PDE,pde-build-inbox@eclipse.org,71,57
+13196,product: jdt component: ui summary: [browsing] consequences of changes,ui,JDT,martinae@microsoft.com,66,426
+6945,product: platform component: swt summary: child shells not displaying on wince,swt,Platform,christophe.cornu+eclipse@gmail.com,29,26
+45066,product: cdt component: cdt-core summary: consistent binarytest junit failure on windows xp,cdt-core,CDT,alain@qnx.com,15,407
+38158,product: pde component: ui summary: duplicate source location reported for twice the same project,ui,PDE,wassim.melhem@gmail.com,86,303
+18354,product: jdt component: ui summary: incorrect deprecated javadoc tag in abstractopenjavaelementaction,ui,JDT,erich_gamma@ch.ibm.com,43,399
+18118,product: pde component: ui summary: pde launch tabs should contribute an image,ui,PDE,dejan@ca.ibm.com,35,632
+29218,product: pde component: ui summary: npe found in logfile from pde,ui,PDE,wassim.melhem@gmail.com,86,303
+4509,product: platform component: swt summary: can't select text in text widget if drag and drop enabled (1fusui0),swt,Platform,veronika_irvine@yahoo.com,84,63
+29018,product: pde component: ui summary: invalid thread access,ui,PDE,wassim.melhem@gmail.com,86,303
+9216,"product: platform component: team summary: ""share projects"" wizard: finish button on last page always disabled?",team,Platform,James_Moody@ca.ibm.com,2,173
+75728,product: cdt component: cdt-parser summary: [parsersymboltable] npe in typeinfoprovider.newtypeinfo,cdt-parser,CDT,victor.lenet@gmail.com,85,82
+133723,product: cdt component: cdt-core summary: cdt ast dom cannot recognize #pragmas,cdt-core,CDT,cdtdoug@gmail.com,25,129
+38378,product: pde component: ui summary: tvt21: properties in plugin-project are not translated,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+4577,product: platform component: swt summary: ctrl+backspace & ctrl+del have the same key code and key event (1g54raj),swt,Platform,steve_northover@hotmail.com,81,103
+74345,product: cdt component: cdt-parser summary: [parser][iproblem] _define_valarray_unary_operator has a blank warning marker in valarray,cdt-parser,CDT,aniefer@gmail.com,18,288
+133200,product: cdt component: cdt-core summary: c-build console font preference requires a restart,cdt-core,CDT,dinglis@qnx.com,37,148
+6335,product: platform component: resources summary: cannot put library in fragment,resources,Platform,debbie_wilson@ca.ibm.com,34,35
+8264,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: update list is not correct,update  (deprecated - use eclipse>equinox>p2),Platform,celek@ca.ibm.com,26,33
+26556,product: jdt component: ui summary: pde junit does not read plugin info from the plugins directory.,ui,JDT,erich_gamma@ch.ibm.com,43,399
+8956,product: platform component: team summary: password lifecycle in cvsrepositorylocation,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+99899,product: cdt component: cdt-debug summary: misspelling in error dialog when error for lauching debug,cdt-debug,CDT,dinglis@qnx.com,37,148
+21842,product: jdt component: text summary: templates don't convert line delimiters correctly,text,JDT,jdt-text-inbox@eclipse.org,50,171
+56206,product: cdt component: cdt-core summary: new class wizard: provide a source folder,cdt-core,CDT,cwiebe@ftml.net,31,27
+13799,product: jdt component: ui summary: jar exporter exports class files from output folder,ui,JDT,daniel_megert@ch.ibm.com,32,216
+5793,product: jdt component: ui summary: searching and search result presentation,ui,JDT,daniel_megert@ch.ibm.com,32,216
+9232,product: jdt component: core summary: icompilationunit.delete() fails,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+2173,product: platform component: ui summary: finding an open file can be difficult (1ge8wdz),ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+39830,"product: cdt component: cdt-debug-cdi summary: in the launcher, need a textfield to set the solib-path",cdt-debug-cdi,CDT,dinglis@qnx.com,37,148
+14294,product: jdt component: ui summary: refactoring: create and maintain delegate methods [refactoring],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+4150,"product: jdt component: ui summary: nl: no nls support for java keywords ""public"", ""protected"" etc. in dialogs (1giyqkg)",ui,JDT,erich_gamma@ch.ibm.com,43,399
+8091,product: platform component: compare summary: create patch: should be able to specify an external folder as an output location,compare,Platform,andre_weinand@ch.ibm.com,17,76
+53517,product: pde component: build summary: automatic build of feature fails,build,PDE,pde-build-inbox@eclipse.org,71,57
+66757,product: cdt component: cdt-core summary: add include path from workspace yields wrong path,cdt-core,CDT,alain@qnx.com,15,407
+40419,product: cdt component: cdt-parser summary: parser fails on heavily templated expressions,cdt-parser,CDT,john.camelon@gmail.com,56,302
+80829,product: cdt component: cdt-core summary: hover help should find declarations of local variables,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+91086,product: cdt component: cdt-parser summary: indexer problem: preprocessor inclusion not found,cdt-parser,CDT,john.camelon@gmail.com,56,302
+70852,product: cdt component: cdt-core summary: c++ classes with german characters does not show up in class wizard (in 'base class' list),cdt-core,CDT,aniefer@gmail.com,18,288
+2863,product: platform component: ui summary: platform lazy loading thwarted by perspectives (1gk7cj9),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+8617,product: jdt component: ui summary: hierarchy view icons are confusing,ui,JDT,erich_gamma@ch.ibm.com,43,399
+68623,product: cdt component: cdt-parser summary: [parser] incorrect scope used when parsing ctor initializers,cdt-parser,CDT,aniefer@gmail.com,18,288
+44311,product: cdt component: cdt-core summary: makefile editor - highlighting issue with target contents.,cdt-core,CDT,alain@qnx.com,15,407
+109595,product: cdt component: cdt-parser summary: indexing old style c functions,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+74186,product: cdt component: cdt-core summary: refactor: undo & redo highlight wrong text,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+95547,product: cdt component: cdt-core summary: [open declaration] that requires the indexer is failing on functions,cdt-core,CDT,victor.lenet@gmail.com,85,82
+17306,product: pde component: ui summary: f1: a10.7: message is hard to notice,ui,PDE,dejan@ca.ibm.com,35,632
+6701,product: jdt component: ui summary: code assist: java hint not properly aligned,ui,JDT,Claude_Knaus@oti.com,0,133
+77383,product: cdt component: cdt-parser summary: [parser] incorrect parsing of scoped variables and intialisation,cdt-parser,CDT,aniefer@gmail.com,18,288
+12380,product: jdt component: core summary: ast/dom: resolvetypebinding() on the second operand of a instanceof expression return null,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+90203,product: cdt component: cdt-core summary: [new content assist] methods not filtered based on return type,cdt-core,CDT,cdtdoug@gmail.com,25,129
+11338,product: jdt component: ui summary: npe in javadoctreewizardpage trying run javadoc on xml file,ui,JDT,unknown@eclipse.org,83,52
+23098,product: jdt component: ui summary: run a single test method [junit],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+14515,product: jdt component: ui summary: java compare uses internal jcore scanner,ui,JDT,andre_weinand@ch.ibm.com,17,76
+9709,product: platform component: user assistance summary: navigation frames have 0 margins in mozilla,user assistance,Platform,birsan@ca.ibm.com,19,54
+22251,product: jdt component: ui summary: mapping automated source code generation abilities to templates [code manipulation] [quick fix] [refactoring],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+25984,product: jdt component: ui summary: javaelementadapterfactory broken by the getresource() changes,ui,JDT,erich_gamma@ch.ibm.com,43,399
+11437,product: jdt component: ui summary: jar packager: no error message but buttons disabled,ui,JDT,erich_gamma@ch.ibm.com,43,399
+26578,"product: jdt component: text summary: ""hovers"" preferences hard to use",text,JDT,jdt-text-inbox@eclipse.org,50,171
+39723,product: cdt component: cdt-core summary: sometimes the c build view is empty,cdt-core,CDT,dinglis@qnx.com,37,148
+100403,product: cdt component: cdt-parser summary: invalid problembindings when using a qualified name to itself,cdt-parser,CDT,aniefer@gmail.com,18,288
+12401,product: jdt component: ui summary: missing mnemonic for surround with try/catch in java editor,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+6679,product: platform component: swt summary: image.getimagedata() not implemented,swt,Platform,christophe.cornu+eclipse@gmail.com,29,26
+12399,product: jdt component: ui summary: automatically insert method declaration if a class inherits from an interface or an abstract class.,ui,JDT,erich_gamma@ch.ibm.com,43,399
+9510,product: jdt component: ui summary: improve option settings for jdk 1.4,ui,JDT,martinae@microsoft.com,66,426
+849,product: platform component: user assistance summary: help: forward/back should be disabled when no next/prev page (1gentf2),user assistance,Platform,birsan@ca.ibm.com,19,54
+90253,"product: cdt component: cdt-parser summary: cscope.find(string) throws exception, does not return function parameters",cdt-parser,CDT,aniefer@gmail.com,18,288
+5200,product: jdt component: core summary: setclasspathoperation must close root only when root is removed,core,JDT,david_audel@fr.ibm.com,33,69
+12778,product: jdt component: core summary: typo in comment: infixexpression.right_shift_unsigned,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+2682,product: platform component: ui summary: [ui] ec: can't contribute submenu items (1gi3xo6),ui,Platform,unknown@eclipse.org,83,52
+2403,product: platform component: ui summary: changing build order should initiate incremental build (1geyzpb),ui,Platform,ryan_cooper@oti.com,78,23
+38222,product: pde component: ui summary: java attribute wizard does not allow legal nested folders,ui,PDE,cherie.wong@gmail.com,28,48
+2360,product: platform component: resources summary: dcr - callbacks to notice file changes,resources,Platform,dj.houghton@ca.ibm.com,39,82
+52714,product: pde component: ui summary: provide description for runtime workbench launch config type,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+15747,product: jdt component: ui summary: stringindexoutofboundsexception from extract method,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+88580,product: cdt component: cdt-core summary: concurrentmodificationexception from the indexmanager,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+8184,product: platform component: team summary: no revisions shown when comparing file revisions,team,Platform,James_Moody@ca.ibm.com,2,173
+7849,product: platform component: swt summary: labels on wince don't use background color of parent when color isn't set,swt,Platform,christophe.cornu+eclipse@gmail.com,29,26
+10010,product: jdt component: ui summary: java browser open editors,ui,JDT,daniel_megert@ch.ibm.com,32,216
+2757,product: platform component: ui summary: [ui] ec: export fails when files out of synch (1giv9ds),ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+5132,product: platform component: swt summary: styledtext - remove hardcoded margin,swt,Platform,lynne_kues@us.ibm.com,65,31
+98960,product: cdt component: cdt-parser summary: [c bindings] c bindings resolve to wrong declaration,cdt-parser,CDT,aniefer@gmail.com,18,288
+5540,product: jdt component: ui summary: exception moving classes to another package,ui,JDT,martinae@microsoft.com,66,426
+26334,product: pde component: ui summary: multipage editor pde wizard creates a plugin with an unused import,ui,PDE,wassim.melhem@gmail.com,86,303
+14821,product: jdt component: ui summary: illegalargumentexception while editing,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+6379,product: jdt component: ui summary: statusline 'writeable' is not readable,ui,JDT,Claude_Knaus@oti.com,0,133
+65449,product: cdt component: cdt-core summary: [scanner config] editing discovered path lacks select-copy,cdt-core,CDT,victor.lenet@gmail.com,85,82
+12200,product: jdt component: ui summary: rename refactoring doesn't work correctly in anonymous class,ui,JDT,akiezun@gmail.com,14,304
+7930,product: jdt component: core summary: code assist - no completion in switch statement,core,JDT,david_audel@fr.ibm.com,33,69
+19988,product: jdt component: ui summary: quick fix could have corrections when class does not override all super-methods [quick fix],ui,JDT,martinae@microsoft.com,66,426
+9713,product: platform component: user assistance summary: ns4: indexing progress indicator always empty,user assistance,Platform,birsan@ca.ibm.com,19,54
+43932,product: cdt component: cdt-parser summary: search: wrong icons for context search in outline view,cdt-parser,CDT,gheorghe@ca.ibm.com,45,130
+339,product: pde component: ui summary: startup times slow with a plugin project (1gl0yn3),ui,PDE,dejan@ca.ibm.com,35,632
+11041,product: platform component: ui summary: [globalactions] paste project - incorrect enablement checking,ui,Platform,simon_arsenault@ca.ibm.com,80,46
+45650,product: pde component: ui summary: update classpath has poor message dialog,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+1842,"product: platform component: ui summary: need way of notifying parts of changes to font preferences, etc. (1g5hvih)",ui,Platform,n.a.edgar@gmail.com,69,58
+51054,product: pde component: ui summary: new project wizard should not be comparing translatable values,ui,PDE,cherie.wong@gmail.com,28,48
+134349,product: cdt component: cdt-build summary: need a public method to create a backup file in updatemanagedprojectmanager.java,cdt-build,CDT,leo.treggiari@intel.com,64,58
+9895,product: jdt component: ui summary: npe in rename field (if only getter exists),ui,JDT,erich_gamma@ch.ibm.com,43,399
+2428,product: platform component: ui summary: welcome: icons not aligned (1gf5sqg),ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+3372,product: jdt component: core summary: markers for build path not updated on (re-) build (1gjy69s),core,JDT,kent_johnson@ca.ibm.com,60,69
+4494,product: platform component: swt summary: colordialog doesn't open in va/java with jdk 1.2 (1fqgm6h),swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+47228,product: pde component: ui summary: source for org.apache.ant compiles with errors,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+2266,product: platform component: ui summary: [viewers] post-release: investigate how often label is obtained (1gegyss),ui,Platform,n.a.edgar@gmail.com,69,58
+26150,product: pde component: ui summary: [schema editor] cannot reuse markup in schema editor,ui,PDE,dejan@ca.ibm.com,35,632
+15887,product: jdt component: ui summary: npe in incremental find,ui,JDT,Claude_Knaus@oti.com,0,133
+8381,"product: platform component: user assistance summary: internal error after pressing f1, tab, down arrow key",user assistance,Platform,Kevin_Haaland@ca.ibm.com,4,192
+13110,product: pde component: ui summary: dependencies tab fails to show the plugin icons in the plugin lists,ui,PDE,dejan@ca.ibm.com,35,632
+69756,product: cdt component: cdt-core summary: custom extension not syntax highlighting correctly,cdt-core,CDT,alain@qnx.com,15,407
+26949,product: pde component: ui summary: parsing and resolving plug-ins in the target takes time,ui,PDE,wassim.melhem@gmail.com,86,303
+13581,product: jdt component: ui summary: too many steps to attach source to a jar,ui,JDT,Claude_Knaus@oti.com,0,133
+41685,product: pde component: ui summary: choice between plugin and uiplugin as base class,ui,PDE,cherie.wong@gmail.com,28,48
+71437,product: cdt component: cdt-debug summary: spawner.exec1 fails when given environment parameters,cdt-debug,CDT,cdtdoug@gmail.com,25,129
+99161,product: cdt component: cdt-core summary: open declaration's csearchscope takes too long to create,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+8178,product: platform component: team summary: need merge functionality,team,Platform,James_Moody@ca.ibm.com,2,173
+54168,product: pde component: ui summary: importing plugins fails,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+31981,product: pde component: ui summary: export deployable features copies wrong plugin jar,ui,PDE,wassim.melhem@gmail.com,86,303
+77154,product: cdt component: cdt-parser summary: [parser] postfix expression with empty lhs,cdt-parser,CDT,aniefer@gmail.com,18,288
+3963,product: jdt component: text summary: clean up the [issues] in javadoc (1gf9p7t),text,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+13891,product: pde component: ui summary: hello world plugin wizard: list disabled when it shouldn't be,ui,PDE,wassim.melhem@gmail.com,86,303
+61187,product: cdt component: cdt-core summary: team->disconnect leaves duplicate entries in synchronize view,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+8369,product: jdt component: core summary: code assist stops to work after anonymous class,core,JDT,david_audel@fr.ibm.com,33,69
+36624,product: cdt component: cdt-core summary: with old parser on cannot open source files any more,cdt-core,CDT,alain@qnx.com,15,407
+9260,product: platform component: team summary: npe in cvsrepositorylocation.openconnection,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+16071,product: jdt component: ui summary: home doesn't completely cancel incremental search,ui,JDT,Claude_Knaus@oti.com,0,133
+20385,"product: pde component: ui summary: tvt2: truncation on text of ""external tool builder"" panel",ui,PDE,dejan@ca.ibm.com,35,632
+23528,product: jdt component: ui summary: quick fix: adds bogus whitespaces on 'add throws declaration',ui,JDT,martinae@microsoft.com,66,426
+72530,product: cdt component: cdt-parser summary: [parser] merge expressionparser & parser back together,cdt-parser,CDT,john.camelon@gmail.com,56,302
+25756,product: cdt component: cdt-core summary: gcc output -> tasks conversion is broken,cdt-core,CDT,alain@qnx.com,15,407
+4117,product: jdt component: ui summary: can't change background color of editor (1gik24f),ui,JDT,erich_gamma@ch.ibm.com,43,399
+108900,product: cdt component: cdt-core summary: unable to create editor,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+98704,product: cdt component: cdt-parser summary: arrayindexoutofbounds exceptions parsing template ids,cdt-parser,CDT,aniefer@gmail.com,18,288
+13647,product: jdt component: ui summary: packages view: doesn't show cvs decorations,ui,JDT,erich_gamma@ch.ibm.com,43,399
+50720,product: pde component: ui summary: npe while launching junit plug-in test with no ui,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+9360,product: platform component: swt summary: text entry in cvs comment dialog can't deal with quick typing,swt,Platform,bshingar@ca.ibm.com,20,24
+7958,product: platform component: team summary: file revisions for deletions,team,Platform,James_Moody@ca.ibm.com,2,173
+8785,product: platform component: resources summary: java.lang.unsatisfiedlinkerror: no swt-pi-gtk-2024 or swt-motif-2024 in java.library.path,resources,Platform,dj.houghton@ca.ibm.com,39,82
+30523,product: pde component: ui summary: i20030128: npe launching rentime-workspace,ui,PDE,wassim.melhem@gmail.com,86,303
+6476,product: platform component: doc summary: incorrect image in java development user guide/getting started/preparing the workbench,doc,Platform,John_Wiegand@us.ibm.com,3,10
+103578,product: cdt component: cdt-parser summary: code completion and navigation do not work with some templates,cdt-parser,CDT,aniefer@gmail.com,18,288
+11963,product: cdt component: cdt-debug summary: r2: enhancements to gdbconsole and console view - user input/output,cdt-debug,CDT,chanskw@ca.ibm.com,27,14
+2051,product: platform component: ui summary: out of memory should be shown to the user (1gduxcd),ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+66273,product: cdt component: cdt-core summary: opending declaration causes stack overflow,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+11488,product: jdt component: core summary: 1gt0hrq:building takes long time after rollup 2,core,JDT,philippe_mulet@fr.ibm.com,74,207
+80238,product: cdt component: cdt-core summary: old style c comments,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+84696,product: cdt component: cdt-parser summary: getreferences does not find the bindings of inherited classes,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+71726,product: cdt component: cdt-core summary: c/c++ projects view doesn't display changes in .* files,cdt-core,CDT,alain@qnx.com,15,407
+5668,product: platform component: resources summary: plugin version match on fragments too restrictive (2.0),resources,Platform,debbie_wilson@ca.ibm.com,34,35
+8565,"product: platform component: ui summary: missing ""close all"" in editor",ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+41382,"product: cdt component: cdt-core summary: in c-build log, tabs should be 8 chars wide",cdt-core,CDT,dinglis@qnx.com,37,148
+100640,product: cdt component: cdt-core summary: indexer encoding/decoding optimizations,cdt-core,CDT,john.camelon@gmail.com,56,302
+329,product: pde component: ui summary: feature: launching target on any selected item in project (1gkmfzp),ui,PDE,dejan@ca.ibm.com,35,632
+105197,product: cdt component: cdt-build summary: isoptionenabled never called,cdt-build,CDT,recoskie@ca.ibm.com,76,25
+9506,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: should notify user why the install button is missing,update  (deprecated - use eclipse>equinox>p2),Platform,dejan@ca.ibm.com,35,632
+10821,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: [npe] internal error opening feature archive.,update  (deprecated - use eclipse>equinox>p2),Platform,celek@ca.ibm.com,26,33
+72725,product: cdt component: cdt-parser summary: [scanner] parser missteps on \r in escaped macros,cdt-parser,CDT,john.camelon@gmail.com,56,302
+10663,product: jdt component: core summary: ast: exception in ast converter,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+77223,product: cdt component: cdt-core summary: failures upon copy'n paste from clipboard,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+70057,product: cdt component: cdt-parser summary: [search] partinitexception if double-clicking on a result which its project got closed...,cdt-parser,CDT,gheorghe@ca.ibm.com,45,130
+14946,product: jdt component: ui summary: refactor pull-up promotes visibility when not needed [refactoring],ui,JDT,akiezun@gmail.com,14,304
+5484,product: platform component: swt summary: tab no longer traverses between widgets!!!,swt,Platform,Kevin_Haaland@ca.ibm.com,4,192
+13989,product: jdt component: core summary: package view doesn't refresh after jre switching,core,JDT,philippe_mulet@fr.ibm.com,74,207
+70113,product: cdt component: cdt-core summary: search for template member declarations causes assertion,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+72708,product: cdt component: cdt-core summary: [search] search for references of pure virtual method yields no results,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+5678,product: platform component: swt summary: tvt: unable to open filter dialog on win98 if another view is undocked (free floating),swt,Platform,steve_northover@hotmail.com,81,103
+65475,product: cdt component: cdt-debug summary: gdb thread breakpoint support,cdt-debug,CDT,alain@qnx.com,15,407
+3410,product: jdt component: core summary: jck 1.4 - binc - adding a string field that has the same name as a string field of a superclass (1gk7mho),core,JDT,philippe_mulet@fr.ibm.com,74,207
+10872,product: platform component: team summary: swt exception in history view,team,Platform,James_Moody@ca.ibm.com,2,173
+10398,product: platform component: ui summary: swt error causes workbench meltdown,ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+10575,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: searching for available updates ignores bookmarked update sites,update  (deprecated - use eclipse>equinox>p2),Platform,dejan@ca.ibm.com,35,632
+47858,product: pde component: ui summary: parse error written to console,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+25108,product: pde component: ui summary: pde does not understand linked plugins,ui,PDE,wassim.melhem@gmail.com,86,303
+14007,product: jdt component: core summary: stringliteral.setliteralvalue does not do unicode escaping,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+27118,product: pde component: ui summary: subactionbars is now public api...discard your copy?,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7075,product: platform component: swt summary: dcr - rendering hints on gc - anti alias / mitre,swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+7177,product: pde component: ui summary: swt-pi.jar not found,ui,PDE,dejan@ca.ibm.com,35,632
+36416,product: cdt component: cdt-core summary: parsing failure on some files. no outline provided,cdt-core,CDT,hamer@rational.com,48,17
+20560,product: jdt component: ui summary: emacs: duplicate ctrl+g binding,ui,JDT,erich_gamma@ch.ibm.com,43,399
+4736,product: platform component: swt summary: fix printing (1gfw2cw),swt,Platform,carolynmacleod4@gmail.com,21,23
+34865,product: pde component: ui summary: debug config window real slow when many plugins,ui,PDE,wassim.melhem@gmail.com,86,303
+25867,product: pde component: ui summary: pde core plugin.startup() does too much work,ui,PDE,wassim.melhem@gmail.com,86,303
+5682,product: platform component: ui summary: [key bindings] customizable key bindings,ui,Platform,csmclaren@andelain.com,30,13
+78828,product: cdt component: cdt-debug summary: exception when launching debugger,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+59768,product: cdt component: cdt-parser summary: eclipse hangs when i open a file.,cdt-parser,CDT,john.camelon@gmail.com,56,302
+102805,"product: cdt component: cdt-core summary: classcastexception in parser when 'extern ""c++""' is used as the scope for a template",cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+8258,product: platform component: ui summary: error message not nice when view is missing on startup,ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+84185,product: cdt component: cdt-parser summary: broken ibinding for pointer wrapped in ( ),cdt-parser,CDT,aniefer@gmail.com,18,288
+8454,product: jdt component: ui summary: status line hides for hierarchy view...,ui,JDT,erich_gamma@ch.ibm.com,43,399
+2587,"product: platform component: ui summary: dcr: when zooming in on an editor, zoom in on the whole workbook (1gkbck5)",ui,Platform,simon_arsenault@ca.ibm.com,80,46
+7284,"product: platform component: team summary: history view - ""compare"" needed",team,Platform,James_Moody@ca.ibm.com,2,173
+11528,product: pde component: ui summary: invalid nature extension created using pde editor,ui,PDE,dejan@ca.ibm.com,35,632
+72078,product: cdt component: cdt-core summary: project source excludes does not work,cdt-core,CDT,alain@qnx.com,15,407
+10621,product: pde component: ui summary: convert java to plug-in projects: should not attempt to convert a plug-in,ui,PDE,dejan@ca.ibm.com,35,632
+9645,product: pde component: ui summary: pde selfhosting: disabling launcher if workspace is open is bad,ui,PDE,dejan@ca.ibm.com,35,632
+9407,product: platform component: text summary: ctrl+del / ctrl+backspace should delete next / prev word in editor,text,Platform,platform-text-inbox@eclipse.org,75,22
+16693,product: pde component: ui summary: missing nls messages in add dependency dialog,ui,PDE,dejan@ca.ibm.com,35,632
+7534,product: platform component: ui summary: dialog should have getbutton(int id),ui,Platform,Ian_Petersen@oti.com,1,13
+2000,product: platform component: ui summary: java perspective menu layout question (1gdd4fs),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+9426,product: platform component: team summary: repositorymanager.commit() signature out of date,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+32020,product: pde component: build summary: backport the description naming change of 2.1 into 2.2,build,PDE,pascal@rapicorp.com,70,14
+11851,product: jdt component: ui summary: generated new testcase differes form generated new class,ui,JDT,Markus_Huebscher@oti.com,6,21
+15834,product: jdt component: text summary: [spell checking] spell check for java comments,text,JDT,jdt-text-inbox@eclipse.org,50,171
+39847,product: cdt component: cdt-core summary: exception found in log,cdt-core,CDT,alain@qnx.com,15,407
+27080,product: jdt component: ui summary: unecessary imports added with refactor->pull up on field.,ui,JDT,akiezun@gmail.com,14,304
+24474,product: pde component: ui summary: plugin import wizard: add checkbox to allow newly selected platform to become default platform,ui,PDE,wassim.melhem@gmail.com,86,303
+11564,product: jdt component: ui summary: javadoc preference page blocks all preferences,ui,JDT,erich_gamma@ch.ibm.com,43,399
+19297,product: pde component: ui summary: npe launching pde config,ui,PDE,dejan@ca.ibm.com,35,632
+3960,product: jdt component: ui summary: review buildpathsblock.updatebuildpathstatus (1gf9kqs),ui,JDT,erich_gamma@ch.ibm.com,43,399
+4398,product: platform component: swt summary: visual coordination: borders (1fsgong),swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+50810,"product: cdt component: cdt-core summary: out of memory when pressing ""+"" on an archive file (such as libxxx.a) in c/c++ projects view",cdt-core,CDT,alain@qnx.com,15,407
+17134,product: pde component: ui summary: wizard-generated editor refers to deprecated api,ui,PDE,dejan@ca.ibm.com,35,632
+8798,product: platform component: swt summary: constructor for menuitem silently changes style bits if incorrect,swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+36294,product: cdt component: cdt-core summary: parser fails on pointers to functions as parameters,cdt-core,CDT,hamer@rational.com,48,17
+35391,product: pde component: ui summary: import external plugin page primes checkbox list from selection,ui,PDE,wassim.melhem@gmail.com,86,303
+84366,product: cdt component: cdt-parser summary: [offsets] no offset/length information for iastenumerationspecifier in c++,cdt-parser,CDT,john.camelon@gmail.com,56,302
+7130,product: platform component: ui summary: pin button should be after action sets,ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+27529,"product: jdt component: ui summary: ""remove prefix from field name"" preference has no effect",ui,JDT,martinae@microsoft.com,66,426
+20337,product: pde component: ui summary: plug-ins does not show all the plug-ins for certain switch combination,ui,PDE,dejan@ca.ibm.com,35,632
+70927,"product: cdt component: cdt-core summary: open type: entering ' ' shows types starting with ss, but not",cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+93384,product: cdt component: cdt-core summary: stringindexoutofboundsexception exception when editing c file,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+15244,product: jdt component: core summary: npe in jdtcompileradapter,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+36818,product: pde component: ui summary: build.xml generation overwrites existing build.xml,ui,PDE,wassim.melhem@gmail.com,86,303
+17444,product: pde component: ui summary: assumption: output is in /bin folder,ui,PDE,wassim.melhem@gmail.com,86,303
+59468,product: cdt component: cdt-parser summary: [content assist] content assist is impractical for simple hello world program,cdt-parser,CDT,cdtdoug@gmail.com,25,129
+24555,product: jdt component: ui summary: hierarchy view should offer showing qualified type names,ui,JDT,martinae@microsoft.com,66,426
+13840,product: pde component: ui summary: duplicate extension point names in plugin.xml,ui,PDE,dejan@ca.ibm.com,35,632
+27264,product: jdt component: ui summary: opening/closing java files in presence of hiearchical package explorer is slow,ui,JDT,unknown@eclipse.org,83,52
+8034,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: cannot remove feature from ui,update  (deprecated - use eclipse>equinox>p2),Platform,klicnik@ca.ibm.com,61,18
+5116,product: jdt component: ui summary: showing methods in the type hierarchy view is redundant,ui,JDT,martinae@microsoft.com,66,426
+81769,product: cdt component: cdt-core summary: c/c++ indexer is too too slow and has too too problems!!!,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+17885,product: jdt component: ui summary: preference pages don't resize well,ui,JDT,martinae@microsoft.com,66,426
+73191,product: cdt component: cdt-core summary: [search] search not finding all references in a specific example,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+14120,product: jdt component: ui summary: main class problem in jar export wizard,ui,JDT,daniel_megert@ch.ibm.com,32,216
+9279,"product: platform component: team summary: ""validate repo connection"" option should be on by default",team,Platform,James_Moody@ca.ibm.com,2,173
+71530,product: cdt component: cdt-parser summary: [scanner] cmodel line numbers are incorrect w/scanner2,cdt-parser,CDT,john.camelon@gmail.com,56,302
+4762,product: platform component: swt summary: styledtext - default linestyler remove line background color hack (1ghbmuv),swt,Platform,lynne_kues@us.ibm.com,65,31
+5903,product: platform component: ui summary: npe on shutdown in resourcenavigator,ui,Platform,unknown@eclipse.org,83,52
+34624,product: pde component: ui summary: application parameters should be less sensitive to white spaces,ui,PDE,dejan@ca.ibm.com,35,632
+42916,product: cdt component: cdt-core summary: [scanner] [tags] c/c++ task tags not recognized,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+40247,product: cdt component: cdt-core summary: wrong order of projects in c/c++ projects view,cdt-core,CDT,alain@qnx.com,15,407
+6627,product: platform component: team summary: dcr: copy cvs string to clipboard,team,Platform,James_Moody@ca.ibm.com,2,173
+36865,product: cdt component: cdt-core summary: const & volatile modifier missing from pointer to function signature,cdt-core,CDT,hamer@rational.com,48,17
+13269,product: jdt component: ui summary: incorrect operation order in jarpackager,ui,JDT,daniel_megert@ch.ibm.com,32,216
+8547,product: platform component: swt summary: intellimouse scrolling does not work in eclipse,swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+103560,product: cdt component: cdt-parser summary: classcastexception in locationmap.endinclusion,cdt-parser,CDT,john.camelon@gmail.com,56,302
+76197,product: cdt component: cdt-build summary: [managed build] updatemanagedprojectaction fails for third party targets/configs,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+10608,product: platform component: team summary: checkout does not overwrite existing directory,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+49883,product: cdt component: cdt-core summary: accessibility-duplicate mnemonics on c/c++editor page,cdt-core,CDT,twolff@ca.ibm.com,82,16
+5011,product: jdt component: ui summary: switch between editors looses selection,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+64839,product: cdt component: cdt-core summary: default c/c++ file type setting for headers contradicts new c++ class wizard,cdt-core,CDT,alain@qnx.com,15,407
+56517,product: cdt component: cdt-parser summary: preprocessor skipping doesn't ignore the contents of string literals,cdt-parser,CDT,john.camelon@gmail.com,56,302
+110406,product: cdt component: cdt-core summary: eclipse don't start for second time,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+4437,product: platform component: swt summary: tree keyboard support (1folzpt),swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+115999,product: cdt component: cdt-core summary: [editor] shift right does not insert spaces (only tabs),cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+53253,product: cdt component: cdt-core summary: vc error parser doesn't seem to work,cdt-core,CDT,alain@qnx.com,15,407
+5514,product: jdt component: core summary: select a declaration does not work in unsaved working copies,core,JDT,david_audel@fr.ibm.com,33,69
+5092,product: jdt component: ui summary: open type list - no longer works if ever cancelled during indexing,ui,JDT,akiezun@gmail.com,14,304
+12761,product: jdt component: core summary: closing a top level binary type doesn't close the class files of its inner types,core,JDT,philippe_mulet@fr.ibm.com,74,207
+72685,product: cdt component: cdt-parser summary: [parser] incorrect problem recovery with bad nested enum,cdt-parser,CDT,mschorn.eclipse@gmx.at,68,108
+11328,product: jdt component: ui summary: java editor redo should also move the cursor,ui,JDT,erich_gamma@ch.ibm.com,43,399
+36551,product: cdt component: cdt-core summary: bad parse on attached file,cdt-core,CDT,jcamelon@rational.com,49,50
+8047,product: platform component: team summary: internal error changing cvs project properties,team,Platform,Michael.Valenta@ibm.com,7,110
+60038,product: cdt component: cdt-parser summary: [search] selectionsearch fails upon constructors/destructors,cdt-parser,CDT,john.camelon@gmail.com,56,302
+38795,product: cdt component: cdt-core summary: distinction between variable and variabledeclaration,cdt-core,CDT,alain@qnx.com,15,407
+60944,product: cdt component: cdt-parser summary: [parser] typedef inheritance should be resolvable to underlying class/struct,cdt-parser,CDT,john.camelon@gmail.com,56,302
+43533,product: cdt component: cdt-core summary: npe with non-existent cextension contribution,cdt-core,CDT,dinglis@qnx.com,37,148
+22636,product: cdt component: cdt-core summary: asm editor does not see comment lines,cdt-core,CDT,alain@qnx.com,15,407
+86274,product: cdt component: cdt-parser summary: [bindings] references inside typeid() don't have proper bindings,cdt-parser,CDT,john.camelon@gmail.com,56,302
+84014,product: cdt component: cdt-core summary: cmodel upgrade? (was namespace aliases),cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+2944,product: platform component: ui summary: idialogpage.getcontrol javadoc should indicate null is a valid return value (1gkx8qb),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+4888,product: platform component: team summary: creating projects in non-head stream (1gj6jce),team,Platform,Michael.Valenta@ibm.com,7,110
+19960,product: pde component: ui summary: assertion failed upon updating classpath,ui,PDE,dejan@ca.ibm.com,35,632
+11922,product: jdt component: core summary: is this code reachable or not?,core,JDT,philippe_mulet@fr.ibm.com,74,207
+133386,product: cdt component: cdt-core summary: photran-based patch for superficial multilanguage support,cdt-core,CDT,cdtdoug@gmail.com,25,129
+71353,product: cdt component: cdt-core summary: c/c++ browsing perspective takes long time for indexing. it is blocking user operations,cdt-core,CDT,cwiebe@ftml.net,31,27
+119387,product: cdt component: cdt-core summary: spawner doesnt kill child process on linux (most probably all unix),cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+70442,product: cdt component: cdt-debug summary: debugger launch configuration not updating properly,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+100581,product: cdt component: cdt-build summary: managed make not include .c files,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+50819,product: pde component: ui summary: bugs in new feature wizard,ui,PDE,cherie.wong@gmail.com,28,48
+45324,product: cdt component: cdt-core summary: ide hangs up after running search,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+15030,product: jdt component: core summary: npe trying to open or edit source files that reference jbuilder.jar,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+70874,product: cdt component: cdt-build summary: [managed build] add an input flag to tool specification,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+5377,product: jdt component: ui summary: npe in open super method action,ui,JDT,martinae@microsoft.com,66,426
+65761,"product: cdt component: cdt-core summary: [scanner config] some include paths do not appear under ""includes""",cdt-core,CDT,alain@qnx.com,15,407
+3325,product: jdt component: core summary: too much codeassist match on interface (1gh0gv1),core,JDT,david_audel@fr.ibm.com,33,69
+11153,product: jdt component: ui summary: npe in javaproblemhover,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+24709,"product: jdt component: ui summary: default selection for new package wizard should be ""name""",ui,JDT,martinae@microsoft.com,66,426
+19952,product: pde component: ui summary: pde launcher should have option to always use defaults,ui,PDE,dejan@ca.ibm.com,35,632
+13512,product: jdt component: ui summary: double clicking on a java file in the cvs repository view under the cvs perspective causes an exception,ui,JDT,akiezun@gmail.com,14,304
+7570,product: platform component: team summary: syncview: update for binary,team,Platform,James_Moody@ca.ibm.com,2,173
+3312,product: jdt component: core summary: internal errors in image builder due to duplicate package fragment (1gfj3y4),core,JDT,kent_johnson@ca.ibm.com,60,69
+47880,product: pde component: ui summary: can't run junit plug-in tests for 2.1 maintenance target,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+11480,product: jdt component: ui summary: read/write not updated on focus change,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+10089,product: jdt component: ui summary: structured selection key shortcuts should use shift key,ui,JDT,akiezun@gmail.com,14,304
+70252,product: cdt component: cdt-core summary: gccerrorparser unrecognized pattern,cdt-core,CDT,alain@qnx.com,15,407
+10516,product: platform component: team summary: random decoration order is not ideal,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+16135,product: jdt component: core summary: unexpected errors while reconciling,core,JDT,philippe_mulet@fr.ibm.com,74,207
+23882,product: jdt component: text summary: use workbench addtaskaction instead of jdt addtaskaction,text,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+5326,product: jdt component: ui summary: exception when closing editor with open template,ui,JDT,Claude_Knaus@oti.com,0,133
+8244,product: platform component: team summary: default text in sync view is wrong,team,Platform,James_Moody@ca.ibm.com,2,173
+10574,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: reconciler configures multiple versions of same feature,update  (deprecated - use eclipse>equinox>p2),Platform,celek@ca.ibm.com,26,33
+13066,product: jdt component: ui summary: mainfest file corrupt,ui,JDT,daniel_megert@ch.ibm.com,32,216
+11051,product: platform component: swt summary: invalid token pasting in callback.c,swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+10472,product: jdt component: core summary: codeassist - no completion between dot and number,core,JDT,philippe_mulet@fr.ibm.com,74,207
+31618,product: pde component: ui summary: should not need team to detect binary projects,ui,PDE,dejan@ca.ibm.com,35,632
+3075,product: platform component: resources summary: should handle empty files on restore (1gfqasf),resources,Platform,john.arthorne@gmail.com,55,48
+9761,product: jdt component: ui summary: line has to be selected from beginning when using the 'tab' key:1grvmuk,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+4733,"product: platform component: swt summary: issues with win32 gdi setbkmode(), and similar things in motif (1gfpgk3)",swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+39542,product: cdt component: cdt-parser summary: parser fails on 'struct' parameter types,cdt-parser,CDT,john.camelon@gmail.com,56,302
+7190,product: platform component: swt summary: ctrl-s does not work,swt,Platform,bshingar@ca.ibm.com,20,24
+7117,product: platform component: ui summary: npe in pagebookview restarting workbench,ui,Platform,n.a.edgar@gmail.com,69,58
+20644,product: jdt component: text summary: [hovering] javadoc hover cannot handle link tag,text,JDT,daniel_megert@ch.ibm.com,32,216
+4626,product: platform component: swt summary: tabletree: two selection events generated for each checkbox selection (1gbrslm),swt,Platform,steve_northover@hotmail.com,81,103
+52577,product: pde component: build summary: export plugin requires boot to be present,build,PDE,pde-build-inbox@eclipse.org,71,57
+27296,product: pde component: ui summary: nullpointerexception in featureconsistencychecker,ui,PDE,dejan@ca.ibm.com,35,632
+77399,product: cdt component: cdt-build summary: managed make builder mangles subdir.mk if configuration of linked resource was changed,cdt-build,CDT,leo.treggiari@intel.com,64,58
+15106,product: jdt component: ui summary: drag&drop should also work in type hierarchy view,ui,JDT,akiezun@gmail.com,14,304
+93230,product: cdt component: cdt-build summary: managed make does not relink after deleting a file,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+9819,product: jdt component: ui summary: imagedescriptorregistry must empty hash map in dispose,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+38796,product: pde component: ui summary: classpath entries on run-time workbench has leading comma,ui,PDE,wassim.melhem@gmail.com,86,303
+47521,product: pde component: ui summary: no files after pde tools -> build site,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7188,"product: pde component: ui summary: convert to pde from ""new wizard"" is sometimes greedy or crazy",ui,PDE,dejan@ca.ibm.com,35,632
+90608,product: cdt component: cdt-parser summary: [classcastexception] thrown on isstatic() for cpp 3.4.1-10,cdt-parser,CDT,aniefer@gmail.com,18,288
+72550,product: cdt component: cdt-core summary: default visibility for machoparser is private,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+12781,product: jdt component: core summary: ast instanceof-infixexpression: cant resolve type,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+14126,product: pde component: ui summary: debug runtime workbenches won't close,ui,PDE,dejan@ca.ibm.com,35,632
+12035,product: jdt component: ui summary: refactoring error page: must be able to handle working copies,ui,JDT,akiezun@gmail.com,14,304
+21028,product: pde component: ui summary: [log] log viewer enhancements...,ui,PDE,wassim.melhem@gmail.com,86,303
+119708,"product: cdt component: cdt-debug summary: using large project in source lookup list causes long waits, timeouts during launch",cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+10553,product: jdt component: ui summary: workbench->preferences->java->editor->colors bugs,ui,JDT,Claude_Knaus@oti.com,0,133
+60270,product: cdt component: cdt-core summary: [refactoring] should support ucns,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+68409,"product: cdt component: cdt-parser summary: [search] outofmemory, incorrect offsets while searching",cdt-parser,CDT,john.camelon@gmail.com,56,302
+4553,product: platform component: swt summary: motif on kde2: things don't redraw (1ga4h7z),swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+28602,product: jdt component: ui summary: on eclipse startup: no disk in drive dialog pops up [ccp],ui,JDT,akiezun@gmail.com,14,304
+321,product: pde component: ui summary: internal error when adding an extension point (1gjp22u),ui,PDE,dejan@ca.ibm.com,35,632
+108424,product: cdt component: cdt-debug summary: debugger stops on removed breakpoints,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+29283,product: pde component: ui summary: [schema editor] does not allow paste,ui,PDE,dejan@ca.ibm.com,35,632
+42666,product: pde component: build summary: fragments' jar files are not independent within the same feature,build,PDE,pde-build-inbox@eclipse.org,71,57
+20296,product: pde component: ui summary: tvt2:lack of shortkeys of add & remove button in source code,ui,PDE,dejan@ca.ibm.com,35,632
+58708,product: cdt component: cdt-core summary: [content assist] invalid proposals on nested classes,cdt-core,CDT,hamer@ca.ibm.com,47,41
+10471,product: pde component: ui summary: plugin editor / extension page does not save state,ui,PDE,dejan@ca.ibm.com,35,632
+32363,product: cdt component: cdt-core summary: it's not possible to open .cpp or .h files,cdt-core,CDT,alain@qnx.com,15,407
+23447,product: jdt component: ui summary: java super-class name does not carry on to dialogue box [code manipulation],ui,JDT,martinae@microsoft.com,66,426
+116742,product: cdt component: cdt-core summary: indexer loops on openldap,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+10899,product: jdt component: core summary: can't open on selection for member type in binary class,core,JDT,david_audel@fr.ibm.com,33,69
+68567,product: cdt component: cdt-core summary: problems not cleared before build,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+5673,product: platform component: swt summary: styledtext - single line mode still allows some multi line cursor navigation,swt,Platform,knut_radloff@us.ibm.com,62,72
+12106,product: jdt component: ui summary: inline temp: incorrect in for some loops (corner case),ui,JDT,akiezun@gmail.com,14,304
+7867,product: platform component: swt summary: dcr: delete checksubclass method from dialog,swt,Platform,carolynmacleod4@gmail.com,21,23
+7615,product: jdt component: ui summary: java editor and special case display of bidi comments/strings,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+28292,product: pde component: build summary: featurebuildscriptgenerator does not order the fragments correctly for compilation,build,PDE,pde-core-inbox@eclipse.org,72,43
+79231,product: cdt component: cdt-core summary: rename class incorrectly renames an inner class,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+4809,product: platform component: swt summary: swt cursor source and mask are flip-flopped (1gj80fz),swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+4330,product: jdt component: ui summary: npe in javaeditorerrortickupdate (1gleegf),ui,JDT,martinae@microsoft.com,66,426
+13849,product: pde component: ui summary: incorrect application used when no application specified when launching runtime platform,ui,PDE,wassim.melhem@gmail.com,86,303
+49148,product: cdt component: cdt-core summary: cygwin gdb debugger sets environment variables incorrectly,cdt-core,CDT,alain@qnx.com,15,407
+62366,product: cdt component: cdt-core summary: [index] need ability to read a partial index and resume,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+11054,product: pde component: ui summary: illegalargumentexception on,ui,PDE,dejan@ca.ibm.com,35,632
+71943,"product: cdt component: cdt-core summary: [class browser] browser shows no methods for structures, unions",cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+38921,product: cdt component: cdt-core summary: model problems with nested declarators,cdt-core,CDT,jcamelon@rational.com,49,50
+61776,product: cdt component: cdt-core summary: consistent cdescriptor junit failures on linux,cdt-core,CDT,dinglis@qnx.com,37,148
+90525,product: cdt component: cdt-parser summary: [dom ast] locationmap search methods require optimization,cdt-parser,CDT,mschorn.eclipse@gmx.at,68,108
+7132,"product: jdt component: ui summary: exception thrown in ""new java project"" wizard",ui,JDT,martinae@microsoft.com,66,426
+10274,product: jdt component: core summary: dom/ast: wrong implementation of typedeclaration.getfields,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+20017,"product: jdt component: ui summary: self encapsulate does not work correctly when ""this.field = value"" is used before refactoring [refactoring]",ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+4030,product: jdt component: ui summary: nlstool: problems with special chars in value (1ggn2n8),ui,JDT,erich_gamma@ch.ibm.com,43,399
+10436,product: jdt component: ui summary: do not provide inappropiate default templates,ui,JDT,Claude_Knaus@oti.com,0,133
+79282,product: cdt component: cdt-parser summary: [parser] namespace alias is not refactored.,cdt-parser,CDT,john.camelon@gmail.com,56,302
+10270,product: jdt component: ui summary: esc should not discard input in template edit mode,ui,JDT,Claude_Knaus@oti.com,0,133
+49849,product: cdt component: cdt-core summary: [new class wizard] able to add a new c++ class with the same name (at same location) from new c++ class wizard,cdt-core,CDT,cwiebe@ftml.net,31,27
+13216,product: jdt component: ui summary: quick fix: light bulp hard to recognize if file is saved,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+8972,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: rework current configuration preview (in my eclipse),update  (deprecated - use eclipse>equinox>p2),Platform,dejan@ca.ibm.com,35,632
+10019,product: platform component: swt summary: right clicking in a list box should select before popping up menu,swt,Platform,bshingar@ca.ibm.com,20,24
+23691,product: jdt component: text summary: editor preference page: mnemonic conflicts with/on the 'behavior' tab,text,JDT,jdt-text-inbox@eclipse.org,50,171
+106391,product: cdt component: cdt-core summary: [template] comment template specifies obsolete path for editing,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+65275,product: cdt component: cdt-build summary: makefile assumes object files are .o,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+2291,product: platform component: ui summary: dcr: switching between editors (1gelqxk),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+51442,"product: cdt component: cdt-core summary: ""class"" keyword partially colored",cdt-core,CDT,alain@qnx.com,15,407
+85910,product: cdt component: cdt-parser summary: parser/indexer needs to be more error-tolerant,cdt-parser,CDT,john.camelon@gmail.com,56,302
+8552,product: platform component: search summary: text search should allow specifying file extensions without *,search,Platform,daniel_megert@ch.ibm.com,32,216
+227,product: platform component: team summary: scalability issues (1gigqyz),team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+8240,product: platform component: ant summary: ant console preference page needs mnemonics,ant,Platform,dj.houghton@ca.ibm.com,39,82
+2019,product: platform component: ui summary: unsaved resources on exit need to show full path name (1ge4sul),ui,Platform,lynne_kues@us.ibm.com,65,31
+29258,product: jdt component: text summary: drag and drop swt error when not performing drag and drop [dnd],text,JDT,akiezun@gmail.com,14,304
+28793,product: jdt component: ui summary: code generation tool for forwarding methods to fields [code manipulation],ui,JDT,martinae@microsoft.com,66,426
+90683,product: cdt component: cdt-parser summary: [parser] syntax error for cpp 14.5.5.1-5,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+10601,product: jdt component: ui summary: refactor should obey formatting rules,ui,JDT,akiezun@gmail.com,14,304
+8717,product: jdt component: ui summary: refactor wizard awkward to use,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+47820,product: pde component: ui summary: npe rebuilding all projects,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+8397,product: platform component: swt summary: wince: menu item colors don't match menu bar,swt,Platform,christophe.cornu+eclipse@gmail.com,29,26
+71669,product: cdt component: cdt-parser summary: [scanner] scanner2 should use keywords class,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+7934,product: jdt component: core summary: builder always rebuilds when workbench restarted,core,JDT,kent_johnson@ca.ibm.com,60,69
+66020,product: cdt component: cdt-core summary: [include paths] paths are presented in wrong search order,cdt-core,CDT,dinglis@qnx.com,37,148
+42963,product: pde component: ui summary: import plugins wizard page has duplicate mnemonics for n [accessibility],ui,PDE,pde-ui-inbox@eclipse.org,73,356
+5392,product: platform component: ui summary: eclipse dies without warning,ui,Platform,simon_arsenault@ca.ibm.com,80,46
+13357,product: jdt component: ui summary: quick fix: could maybe be smarter on param names,ui,JDT,martinae@microsoft.com,66,426
+10958,product: jdt component: ui summary: create getter without setter,ui,JDT,akiezun@gmail.com,14,304
+22856,product: jdt component: ui summary: generation of getters and setters does not work properly for final variables.,ui,JDT,martinae@microsoft.com,66,426
+51969,"product: cdt component: cdt-core summary: you can only ""open include"" one level deep",cdt-core,CDT,alain@qnx.com,15,407
+57652,product: cdt component: cdt-parser summary: eclipse 2.0m8 crashes when loading fops structures,cdt-parser,CDT,john.camelon@gmail.com,56,302
+22185,product: pde component: ui summary: name collision doesn't say what name caused the collision,ui,PDE,wassim.melhem@gmail.com,86,303
+107952,product: cdt component: cdt-build summary: scanner discovery doesn't take with mingw,cdt-build,CDT,cdtdoug@gmail.com,25,129
+2292,product: platform component: ui summary: [jface text] error attempting to merge conflicts (1gem0ct),ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+5616,product: jdt component: core summary: npe when compiling invalid code defining a array of strings,core,JDT,philippe_mulet@fr.ibm.com,74,207
+23585,product: jdt component: ui summary: reorder parameter refactoring of constructors broken [refactoring],ui,JDT,akiezun@gmail.com,14,304
+47752,product: cdt component: cdt-parser summary: [parser] outline does not recognize functions with full body try/catch blocks,cdt-parser,CDT,john.camelon@gmail.com,56,302
+27900,"product: pde component: ui summary: pde, java buildpaths, advanced, required plugins",ui,PDE,pde-ui-inbox@eclipse.org,73,356
+8671,"product: platform component: team summary: no need for ""nothing to sync..."" dialog?",team,Platform,James_Moody@ca.ibm.com,2,173
+80271,product: cdt component: cdt-parser summary: auto-discovery parser corrupts macro symbol detection,cdt-parser,CDT,victor.lenet@gmail.com,85,82
+45767,product: pde component: ui summary: should fragments be on a downstream plugin's classpath?,ui,PDE,wassim.melhem@gmail.com,86,303
+21900,product: jdt component: ui summary: minor - tooltip for previous hierarchies should use 'focus' instead of 'input' [type hierarchy],ui,JDT,martinae@microsoft.com,66,426
+78610,product: cdt component: cdt-build summary: workspace does not remember make target build settings,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+18476,product: jdt component: ui summary: the members view of the java browsing perspective does not follow the cursor [browsing],ui,JDT,daniel_megert@ch.ibm.com,32,216
+2083,"product: platform component: ui summary: undo after file save does not work, but menu-item still active (1ge4w22)",ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+21127,product: pde component: ui summary: schema attribute value notification is wrong,ui,PDE,wassim.melhem@gmail.com,86,303
+69147,"product: cdt component: cdt-build summary: project properties, panel ""c/c++ make project"" does not saves entries",cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+102602,product: cdt component: cdt-core summary: pre-#included files aren't built by quick parser,cdt-core,CDT,john.camelon@gmail.com,56,302
+2736,product: platform component: ui summary: performance: task list delta listener should use visitor (1gitcp0),ui,Platform,n.a.edgar@gmail.com,69,58
+124687,product: cdt component: cdt-parser summary: error markers in c/c++ editor & so does not appear in the problems view.,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+12387,product: jdt component: core summary: out of memory error importing file,core,JDT,philippe_mulet@fr.ibm.com,74,207
+6404,product: platform component: ui summary: editor status line column number wrong in method editor,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+314,"product: pde component: ui summary: fragment manifest editor runtime libraries can not be reordered with ""up/down"" buttons (1gi9e18)",ui,PDE,dejan@ca.ibm.com,35,632
+7484,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: missing mnemonic for update manager,update  (deprecated - use eclipse>equinox>p2),Platform,dejan@ca.ibm.com,35,632
+11113,product: pde component: build summary: npe in pde debug event listener,build,PDE,dj.houghton@ca.ibm.com,39,82
+136,product: platform component: team summary: [progress] need progress monitoring during merge (1getbx7),team,Platform,Michael.Valenta@ibm.com,7,110
+33761,product: pde component: ui summary: editor opens in wrong window if switch persp on project create,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+117206,product: cdt component: cdt-core summary: content assit is extremely slow,cdt-core,CDT,cdtdoug@gmail.com,25,129
+51646,product: cdt component: cdt-core summary: i18n: generated makefile comments translation cause build problems,cdt-core,CDT,sevoy@ca.ibm.com,79,75
+99433,product: cdt component: cdt-core summary: [search] return parms not part of qualification matching,cdt-core,CDT,victor.lenet@gmail.com,85,82
+30712,product: pde component: ui summary: manifest editor will not allow use of existing class,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+8548,product: jdt component: text summary: information about an nls string [refactoring] [editor],text,JDT,daniel_megert@ch.ibm.com,32,216
+48619,product: cdt component: cdt-core summary: hover help left out of cdt,cdt-core,CDT,dinglis@qnx.com,37,148
+48009,product: cdt component: cdt-core summary: [plan item] standard make variable support,cdt-core,CDT,dinglis@qnx.com,37,148
+13283,product: jdt component: ui summary: find/replace: close button too small,ui,JDT,Claude_Knaus@oti.com,0,133
+4408,product: platform component: swt summary: image processing algorithims (1pq8rgt),swt,Platform,steve_northover@hotmail.com,81,103
+7585,product: jdt component: ui summary: braces show up aligned wrong,ui,JDT,erich_gamma@ch.ibm.com,43,399
+23742,product: jdt component: ui summary: quick fix: should feature a 'create constructor' similar to 'create method',ui,JDT,martinae@microsoft.com,66,426
+110391,product: cdt component: cdt-core summary: delete source folder -> c/c++ projects view update broken,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+10618,product: platform component: team summary: missing text in error on commit of project with deleted resource,team,Platform,Michael.Valenta@ibm.com,7,110
+40101,product: cdt component: cdt-debug summary: text hovering is limited to single word,cdt-debug,CDT,recoskie@ca.ibm.com,76,25
+6040,product: platform component: swt summary: tab order changed unpredictably in 1116,swt,Platform,steve_northover@hotmail.com,81,103
+5714,product: platform component: resources summary: fragment manifest editor removes tags,resources,Platform,debbie_wilson@ca.ibm.com,34,35
+39537,product: cdt component: cdt-core summary: parser fails if template parameters contain '>' or ' < ' characters,cdt-core,CDT,john.camelon@gmail.com,56,302
+27763,product: jdt component: ui summary: [startup] first switch to java loads search plugin,ui,JDT,daniel_megert@ch.ibm.com,32,216
+39688,product: cdt component: cdt-parser summary: [scanner] macros with variable number of arguments are not supported (c99) (gcc),cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+10088,product: platform component: user assistance summary: search engine must search non-toc topics,user assistance,Platform,konradk@ca.ibm.com,63,22
+15690,product: jdt component: core summary: classpath being set in wrong notification lifecycle,core,JDT,philippe_mulet@fr.ibm.com,74,207
+82596,product: cdt component: cdt-parser summary: [parser] [search] results contain wrong offsets for macro arguments,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+4195,product: jdt component: ui summary: more refactoring icons needed (1gjw8qn),ui,JDT,akiezun@gmail.com,14,304
+64206,product: cdt component: cdt-build summary: npe in eclipse core because of the wrong return,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+125576,"product: cdt component: cdt-parser summary: pdom setting is ""persistent""",cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+7851,product: platform component: team summary: decorators preferences pages sets control when it shouldn't,team,Platform,James_Moody@ca.ibm.com,2,173
+13237,product: jdt component: ui summary: quick fix: does not offer base types,ui,JDT,martinae@microsoft.com,66,426
+117294,"product: cdt component: cdt-build summary: include path discovery hardcoded to use ""gcc""",cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+45129,product: cdt component: cdt-parser summary: symbol table needs to support functions as parameters,cdt-parser,CDT,aniefer@gmail.com,18,288
+11061,product: platform component: ui summary: f3 should be used for searching,ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+14510,product: jdt component: ui summary: internal jcore scanner used by compilationunitbuffer,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+16606,product: pde component: ui summary: property sheet does not refresh when you create a new element,ui,PDE,wassim.melhem@gmail.com,86,303
+24421,product: jdt component: ui summary: better ui feedback when class path entries are missing [icons],ui,JDT,martinae@microsoft.com,66,426
+65133,"product: cdt component: cdt-debug summary: ""breakpoint hit"" message not found",cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+7105,product: pde component: build summary: change request for build.manifest,build,PDE,dj.houghton@ca.ibm.com,39,82
+11077,product: jdt component: ui summary: hover help appears under code assist,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+3188,product: jdt component: core summary: javabuilder - deleting source doesn't delete binary folders (1fvpttk),core,JDT,kent_johnson@ca.ibm.com,60,69
+10813,product: platform component: team summary: sync view: ignore incorrectly enabled,team,Platform,James_Moody@ca.ibm.com,2,173
+44328,product: pde component: build summary: exporting feature containing white spaces in the folder name is not working,build,PDE,pde-build-inbox@eclipse.org,71,57
+74338,product: cdt component: cdt-parser summary: [parser][iproblem] __valarray_copy_construct has attempt to use symbol failed warning marker in valarray,cdt-parser,CDT,aniefer@gmail.com,18,288
+20945,product: pde component: ui summary: wizard generating code with \n instead of \r\n on windows,ui,PDE,wassim.melhem@gmail.com,86,303
+39810,"product: pde component: ui summary: compilerpreferences ""restore defaults"" does not make rebuild utilize default properties.",ui,PDE,cherie.wong@gmail.com,28,48
+3129,product: platform component: resources summary: (136) exception on catching up (1gkkg2j),resources,Platform,jeffmcaffer@gmail.com,53,10
+10579,product: pde component: ui summary: show plug-in id in pde target platform preference page,ui,PDE,dejan@ca.ibm.com,35,632
+13115,"product: pde component: ui summary: new extension wizard pops up, when editing the fields within the properties view",ui,PDE,dejan@ca.ibm.com,35,632
+15340,product: jdt component: ui summary: java model exceptions entering package name,ui,JDT,martinae@microsoft.com,66,426
+46822,product: cdt component: cdt-core summary: outline flickers when opening/editing files,cdt-core,CDT,alain@qnx.com,15,407
+45820,product: pde component: ui summary: pde export does not warn before deleting a zip file.,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+8991,product: platform component: team summary: synchronize view presents catchup tree that has no changes,team,Platform,James_Moody@ca.ibm.com,2,173
+52205,product: pde component: ui summary: incorrect dynamic classpath for bundles.,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+6007,product: platform component: team summary: vcm perspective icon is too much like resource perspective,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+91165,product: cdt component: cdt-core summary: editor preview in preferences not updated on changes,cdt-core,CDT,alain@qnx.com,15,407
+5318,product: platform component: ui summary: jface textviewer illegal setstylerange argument (styledtext indexoutofbounds error),ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+25098,product: jdt component: ui summary: quickfix for the local variable may not have been initialized.. [quick fix],ui,JDT,martinae@microsoft.com,66,426
+25784,product: cdt component: cdt-core summary: cwizard does not allow spaces.,cdt-core,CDT,alain@qnx.com,15,407
+26257,product: jdt component: ui summary: junit: new test case wizard generates code which does not compile,ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+9739,product: platform component: team summary: ignoring a resource in the sync view must add .cvsignore to sync,team,Platform,James_Moody@ca.ibm.com,2,173
+73667,product: cdt component: cdt-debug-cdi-gdb summary: threads not shown suspended in debug view when initial breakpoint hit,cdt-debug-cdi-gdb,CDT,alain@qnx.com,15,407
+6586,product: jdt component: core summary: nullpointerexception when resource modification done before java model is open,core,JDT,philippe_mulet@fr.ibm.com,74,207
+9769,product: platform component: team summary: error sync'ing: /src/file.java is not a child of project,team,Platform,Michael.Valenta@ibm.com,7,110
+69411,product: cdt component: cdt-core summary: bad label: wizardnewfilecreationpage.progress,cdt-core,CDT,hamer@ca.ibm.com,47,41
+14564,product: jdt component: ui summary: code assist doesn't display possibilities which exactly match the word to complete,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+10126,product: platform component: ui summary: allow programmatic access to the editor tiling feature,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+20477,product: pde component: ui summary: cut/copy in text fields on overview page,ui,PDE,wassim.melhem@gmail.com,86,303
+79540,product: cdt component: cdt-parser summary: [parser] macros in class declaration,cdt-parser,CDT,john.camelon@gmail.com,56,302
+2154,product: platform component: ui summary: drag and drop files does not check 'read-only' (1ge8mav),ui,Platform,ryan_cooper@oti.com,78,23
+1979,product: platform component: ui summary: annoying auto-expand when editor is closed (1gd1z1v),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+9375,product: jdt component: ui summary: surround with try/catch: unnecessary import added,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+21163,product: jdt component: ui summary: assertation failed in modify parameters,ui,JDT,akiezun@gmail.com,14,304
+6164,product: jdt component: text summary: [content assist] codeassist insertion - gets confused when inserting a prefix of current word,text,JDT,jdt-text-inbox@eclipse.org,50,171
+5992,product: platform component: swt summary: changing java editor font in preference page makes eclipse hang or crash,swt,Platform,Silenio_Quarti@ca.ibm.com,12,49
+4776,product: platform component: swt summary: styledtext - gc.stringextent returns incorrect value (1gi7ala),swt,Platform,knut_radloff@us.ibm.com,62,72
+107821,product: cdt component: cdt-core summary: indexer crashes eclipse on code from,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+35227,product: pde component: build summary: adding a description to the refresh target,build,PDE,pde-core-inbox@eclipse.org,72,43
+5748,product: pde component: ui summary: pde shouldn't generate build.xml,ui,PDE,dejan@ca.ibm.com,35,632
+123238,product: cdt component: cdt-core summary: folding does not work for templated methods,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+8968,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: change name of default configuration,update  (deprecated - use eclipse>equinox>p2),Platform,celek@ca.ibm.com,26,33
+56620,product: cdt component: cdt-parser summary: outline view stops on error on last line of block,cdt-parser,CDT,aniefer@gmail.com,18,288
+28563,product: jdt component: ui summary: npe on shutdown when junit view wasn't realized,ui,JDT,erich_gamma@ch.ibm.com,43,399
+8213,product: platform component: swt summary: exception: widget is disposed,swt,Platform,steve_northover@hotmail.com,81,103
+9265,product: jdt component: ui summary: surround with try/catch: changeabortexception,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+43524,product: cdt component: cdt-parser summary: removing a define from a .c file causes issues in the outline,cdt-parser,CDT,hamer@ca.ibm.com,47,41
+13382,product: jdt component: ui summary: severe loss of context in java perspectives,ui,JDT,erich_gamma@ch.ibm.com,43,399
+4833,product: platform component: swt summary: remove focus button from table (1gk7mk4),swt,Platform,grant_gayed@ca.ibm.com,46,44
+2031,product: platform component: ui summary: drill into should remember tree expansion - repository view (1gdqlbf),ui,Platform,knut_radloff@us.ibm.com,62,72
+3537,product: jdt component: text summary: dcr - no disassemled code for class files (1g8bsh6),text,JDT,daniel_megert@ch.ibm.com,32,216
+35287,product: pde component: ui summary: missing icons when plugins imported but not copied locally,ui,PDE,dejan@ca.ibm.com,35,632
+24229,product: cdt component: cdt-debug summary: org.eclipse.cdt.debug.core.cdi icdibreakpointmanager needs javadoc update,cdt-debug,CDT,alain@qnx.com,15,407
+4414,product: platform component: swt summary: dcr - platform inconsistency of shell.open (1fs69oc),swt,Platform,steve_northover@hotmail.com,81,103
+41790,product: pde component: ui summary: pde junit: would like to be able to enable debug tracing,ui,PDE,wassim.melhem@gmail.com,86,303
+20470,product: pde component: ui summary: new fragment wizard throws null pointer exceptions,ui,PDE,wassim.melhem@gmail.com,86,303
+57968,product: cdt component: cdt-core summary: class wizard fails to release working copies,cdt-core,CDT,cwiebe@ftml.net,31,27
+10874,product: jdt component: core summary: dom/ast: classinstancecreation contains trailing comment,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+27801,product: jdt component: ui summary: change the way external jars are presented in package explorer,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+12739,product: jdt component: ui summary: exception when cancelling rename of .java file,ui,JDT,akiezun@gmail.com,14,304
+9721,product: platform component: ui summary: performance: avoid writing empty preference files,ui,Platform,Randy_Giffen@oti.com,11,54
+51208,product: cdt component: cdt-core summary: nullpointerexception in cmodelbuilder,cdt-core,CDT,hamer@ca.ibm.com,47,41
+10662,product: jdt component: core summary: casting to buffer makes it impossible for clients to implement ibuffer,core,JDT,philippe_mulet@fr.ibm.com,74,207
+26610,product: jdt component: text summary: [formatting] javadoc incorrect one line transformation,text,JDT,jdt-text-inbox@eclipse.org,50,171
+4938,product: platform component: ui summary: deleting project with read-only files will cause non-readonly files to be erased if user said to not erase them (1glg2wt),ui,Platform,Randy_Giffen@oti.com,11,54
+27711,product: pde component: ui summary: null pointer from debugplugin.exec(),ui,PDE,wassim.melhem@gmail.com,86,303
+28469,product: jdt component: ui summary: error ticks appear on empty default package in packages view hierarchical layout,ui,JDT,daniel_megert@ch.ibm.com,32,216
+4957,product: platform component: swt summary: styledtext - implement styledtextbidi.isligated,swt,Platform,knut_radloff@us.ibm.com,62,72
+95219,product: cdt component: cdt-core summary: [ctrl+click] is enabled on everything except for keywords,cdt-core,CDT,devinsteffler.lists@gmail.com,36,116
+3374,product: jdt component: core summary: searchpatter.createpattern(...) doesn't work with unicodes (1gjybry),core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+25325,product: jdt component: ui summary: variable extension browser contents not sorted,ui,JDT,martinae@microsoft.com,66,426
+20270,product: jdt component: text summary: text wrapping wrong in popup windows (i.e. jdt javadoc popups),text,JDT,jdt-text-inbox@eclipse.org,50,171
+23348,product: jdt component: ui summary: quickfix ignores read-only state [quick fix],ui,JDT,martinae@microsoft.com,66,426
+16375,product: pde component: ui summary: can't open build.properties from repositories view,ui,PDE,dejan@ca.ibm.com,35,632
+81812,product: cdt component: cdt-core summary: quote problems in property files (cdt),cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+40768,product: cdt component: cdt-parser summary: [parser] problems with nested declarators,cdt-parser,CDT,john.camelon@gmail.com,56,302
+8538,product: platform component: swt summary: mismatch between selected tab and displayed tab,swt,Platform,bshingar@ca.ibm.com,20,24
+86470,product: cdt component: cdt-parser summary: [bindings c++] multiple names introduced via namespaces can be problematic,cdt-parser,CDT,aniefer@gmail.com,18,288
+7102,"product: platform component: swt summary: griddata can crash, with nullpointer exn",swt,Platform,veronika_irvine@yahoo.com,84,63
+13303,product: jdt component: ui summary: create new class: too many comments,ui,JDT,martinae@microsoft.com,66,426
+6943,product: pde component: ui summary: avoid workspace persist behavior,ui,PDE,dejan@ca.ibm.com,35,632
+27709,"product: pde component: ui summary: [schema editor] text not removed from ""new choice"" textbox in type restriction dialog",ui,PDE,dejan@ca.ibm.com,35,632
+11062,product: pde component: ui summary: runtime workbench lancher is confusing,ui,PDE,dejan@ca.ibm.com,35,632
+4144,product: jdt component: ui summary: unused keys in refactoring (1giwkwn),ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+6450,"product: jdt component: ui summary: ""add unimplemented methods"" missing in packages context menu for classes",ui,JDT,martinae@microsoft.com,66,426
+81353,product: cdt component: cdt-debug summary: automatically opening of the disassembly window,cdt-debug,CDT,ken.ryall@gmail.com,59,13
+2627,product: platform component: ui summary: [ui] dragging view border near scroll bar detaches view (1ghdiiu),ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+5524,"product: jdt component: ui summary: nls tool: filter cus which are ok on ""find externalize strings"" dialog",ui,JDT,akiezun@gmail.com,14,304
+24204,product: jdt component: ui summary: cannot pull up static method,ui,JDT,akiezun@gmail.com,14,304
+5270,product: jdt component: ui summary: no command line args when running from outliner,ui,JDT,erich_gamma@ch.ibm.com,43,399
+6459,product: jdt component: ui summary: usability: working set filter dialog avoidance,ui,JDT,daniel_megert@ch.ibm.com,32,216
+9702,product: platform component: user assistance summary: tabs extend beyond browser area,user assistance,Platform,birsan@ca.ibm.com,19,54
+7583,product: jdt component: core summary: domnode#getchild(string) needs to handle children with null names,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+66948,product: cdt component: cdt-core summary: colors issues with c sources,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+15918,product: jdt component: ui summary: java browsing refresh problem,ui,JDT,martinae@microsoft.com,66,426
+4641,product: platform component: swt summary: icon lookup fails for some windows icon paths (1gd2dey),swt,Platform,steve_northover@hotmail.com,81,103
+41236,product: pde component: ui summary: extension point html badly formatted.,ui,PDE,cherie.wong@gmail.com,28,48
+8801,product: jdt component: ui summary: remove the basic icons from our plugin,ui,JDT,erich_gamma@ch.ibm.com,43,399
+7478,product: platform component: resources summary: if java vm can't be found at startup the splash screen hangs forever and no error message is displayed,resources,Platform,kcornell@ca.ibm.com,58,10
+36689,product: cdt component: cdt-core summary: problem parsing loki's reference abstractfactory.h implementation,cdt-core,CDT,jcamelon@rational.com,49,50
+6791,product: jdt component: ui summary: java editor syntax highlighting problems,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+32620,product: pde component: ui summary: [rc1] a4.1 where is 'show full extension hiearchy' checkbox ?,ui,PDE,dejan@ca.ibm.com,35,632
+6995,product: platform component: resources summary: full build after restart and sync with server,resources,Platform,john.arthorne@gmail.com,55,48
+4947,product: jdt component: ui summary: no indication of insert/overwrite mode,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+2195,product: platform component: ui summary: new project wizard: tab goes to cancel before next (1geagbq),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+4981,product: jdt component: ui summary: refactor actions show more informative error dialogs,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+1859,product: platform component: ui summary: esc does not disable propertysheet text cell editor. (1g607pz),ui,Platform,Randy_Giffen@oti.com,11,54
+77389,product: cdt component: cdt-parser summary: [iproblems] no filename associated with iproblem (ambiguity encountered during lookup),cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+29701,product: jdt component: ui summary: quick fix: create method adds 4 lines after each created method,ui,JDT,martinae@microsoft.com,66,426
+74300,product: cdt component: cdt-parser summary: [parser][iproblem] attempt to use symbol failed warning marker in fstream.tcc,cdt-parser,CDT,john.camelon@gmail.com,56,302
+32050,product: pde component: ui summary: connect elements in source outline with matching action groups,ui,PDE,wassim.melhem@gmail.com,86,303
+14389,product: jdt component: ui summary: code assist adds ambiguous imports,ui,JDT,martinae@microsoft.com,66,426
+21729,product: pde component: build summary: [build] java 1.4 assertions fail when ran in ide.,build,PDE,pde-core-inbox@eclipse.org,72,43
+16097,product: jdt component: ui summary: content outline shows static fields when it shouldn't,ui,JDT,erich_gamma@ch.ibm.com,43,399
+20382,product: jdt component: ui summary: resolve ambiguous import quick fix [quick fix],ui,JDT,martinae@microsoft.com,66,426
+3358,product: jdt component: core summary: performance: indexer doing too much work? (1gjldn7),core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+2325,product: platform component: ui summary: properties page missing project info (1gepd0e),ui,Platform,Randy_Giffen@oti.com,11,54
+38288,product: pde component: ui summary: tvt21: english item in the add library panel,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+4434,product: platform component: swt summary: gpf when running swt tree code (1fni25v),swt,Platform,steve_northover@hotmail.com,81,103
+2377,product: platform component: ui summary: [welcome] welcome view: strange that it allows multiple selections (1geuvsb),ui,Platform,airvine@ca.ibm.com,13,16
+14403,product: jdt component: core summary: ast: exception on creation,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+9639,product: platform component: update  (deprecated - use eclipse>equinox>p2) summary: searching for updates finds already installed feature,update  (deprecated - use eclipse>equinox>p2),Platform,dejan@ca.ibm.com,35,632
+88662,product: cdt component: cdt-parser summary: [dom] problem parsing postfix expression,cdt-parser,CDT,john.camelon@gmail.com,56,302
+7786,product: platform component: ui summary: [tasks] context menu items enabled when they should be disabled,ui,Platform,csmclaren@andelain.com,30,13
+39471,product: cdt component: cdt-core summary: right mouse button menu should be available from navigator view,cdt-core,CDT,alain@qnx.com,15,407
+5811,product: platform component: text summary: [preferences] pref to set editor background color,text,Platform,platform-text-inbox@eclipse.org,75,22
+4355,product: jdt component: ui summary: double click does not bring editor to front,ui,JDT,erich_gamma@ch.ibm.com,43,399
+7376,product: platform component: team summary: repository names in repositories view are missing account names,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+123897,product: cdt component: cdt-core summary: navigation problems when using symbolic links,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+72605,product: cdt component: cdt-parser summary: [refactoring] rename method with default arguments fails,cdt-parser,CDT,mschorn.eclipse@gmx.at,68,108
+19993,product: jdt component: ui summary: not present exception when closing editor,ui,JDT,martinae@microsoft.com,66,426
+3305,product: jdt component: core summary: incremental build doesn't detect abstract method to implements. (1gf5tzt),core,JDT,kent_johnson@ca.ibm.com,60,69
+53844,product: cdt component: cdt-core summary: sort order in c/c++ view,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+20806,product: jdt component: ui summary: move static members: gui blooper in wizard page [refactoring],ui,JDT,akiezun@gmail.com,14,304
+9208,product: pde component: ui summary: unable to launch inner eclipse with new pde support,ui,PDE,dejan@ca.ibm.com,35,632
+9909,product: jdt component: ui summary: template: toarray - using ${type} is wrong,ui,JDT,Claude_Knaus@oti.com,0,133
+13117,"product: pde component: ui summary: name field in the properties view of the ""separator"" behaves incorrectly",ui,PDE,dejan@ca.ibm.com,35,632
+9570,product: jdt component: ui summary: [java browsing] types view not updated on deletion,ui,JDT,daniel_megert@ch.ibm.com,32,216
+4974,product: jdt component: core summary: set classpath / output location should be one operation,core,JDT,philippe_mulet@fr.ibm.com,74,207
+6670,product: jdt component: core summary: code assist: cannot resolve in method body,core,JDT,philippe_mulet@fr.ibm.com,74,207
+30116,product: pde component: ui summary: npe focus making invalid selection in dependencies view,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+4694,product: platform component: swt summary: editor name is missing from tab (1get93j),swt,Platform,veronika_irvine@yahoo.com,84,63
+100531,product: cdt component: cdt-core summary: template c-header contains c++ comment (not ansi standard),cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+122385,product: cdt component: cdt-parser summary: code completition problem,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+12585,product: jdt component: ui summary: packages view should not provide file and resource transfer if java element below cu is selected,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+24791,product: jdt component: ui summary: no javadoc if member also has normal comment,ui,JDT,daniel_megert@ch.ibm.com,32,216
+72186,product: cdt component: cdt-core summary: projects view just shows include directories available via cpath,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+98998,product: cdt component: cdt-parser summary: [ast binding] classcastexception in cppvisitor.java when indexing mozilla project,cdt-parser,CDT,aniefer@gmail.com,18,288
+23219,product: jdt component: ui summary: bad decorator for methods which implement abstract methods. [render],ui,JDT,martinae@microsoft.com,66,426
+5853,product: jdt component: ui summary: jar packager: progress reporting not optimal,ui,JDT,daniel_megert@ch.ibm.com,32,216
+16051,product: jdt component: core summary: dom/ast: wrong position in if statement,core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+60152,product: cdt component: cdt-core summary: [scannerconfig] disabling build output parser also disables scanner info command,cdt-core,CDT,victor.lenet@gmail.com,85,82
+43767,product: pde component: ui summary: [pde] needs to support the absence of boot,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+8352,product: jdt component: core summary: no hierarchy when using hierachytype,core,JDT,philippe_mulet@fr.ibm.com,74,207
+77096,product: cdt component: cdt-parser summary: parser problem - isourceelementrequestor's acceptfunctionreference is not entered,cdt-parser,CDT,aniefer@gmail.com,18,288
+24256,product: jdt component: ui summary: quick fix adds method body to interface [quick fix],ui,JDT,martinae@microsoft.com,66,426
+8864,product: platform component: ui summary: goto resource dialog redraws too much,ui,Platform,eduardo_pereira@ca.ibm.com,42,67
+55636,product: cdt component: cdt-core summary: buildconsole missing and .log fills up on missing org.eclipse.jface/resource/resourceregistry,cdt-core,CDT,dinglis@qnx.com,37,148
+3066,product: platform component: resources summary: test: historystoreperformance not part of plugin.xml (1gf9ycu),resources,Platform,jeffmcaffer@gmail.com,53,10
+9810,product: platform component: user assistance summary: help and updatemanager use of tomcat are interfering,user assistance,Platform,birsan@ca.ibm.com,19,54
+16056,product: pde component: build summary: build.update.jar target builds each plugin twice,build,PDE,rodrigo@peretti.ca,77,23
+130509,product: cdt component: cdt-parser summary: indexer runs on excluded files and folders.,cdt-parser,CDT,mschorn.eclipse@gmx.at,68,108
+53009,product: pde component: ui summary: a specifically set target platform reverts to the host platform after processing an update.,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+63495,product: cdt component: cdt-core summary: [scanner config] create a directory after build discovery,cdt-core,CDT,victor.lenet@gmail.com,85,82
+5071,product: platform component: swt summary: shift-tab doesn't generate proper event,swt,Platform,grant_gayed@ca.ibm.com,46,44
+79451,product: cdt component: cdt-build summary: [mbs] npes on project import,cdt-build,CDT,leo.treggiari@intel.com,64,58
+35373,product: pde component: build summary: ensure composability of targets,build,PDE,pde-build-inbox@eclipse.org,71,57
+74116,product: cdt component: cdt-core summary: c view right-click menu show run/debug menus in wrong places,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+12680,product: pde component: ui summary: npe when complete rebuild,ui,PDE,dejan@ca.ibm.com,35,632
+257,product: platform component: team summary: wishlist: hoverhelp on resource in sync view shows release comment (1gkdek6),team,Platform,James_Moody@ca.ibm.com,2,173
+25025,product: jdt component: ui summary: missing mnemonics for navigate menu [actions],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+6457,product: jdt component: ui summary: rename project changes project location,ui,JDT,akiezun@gmail.com,14,304
+5395,product: pde component: ui summary: can't launch eclipse from eclipse,ui,PDE,dejan@ca.ibm.com,35,632
+6224,product: jdt component: ui summary: rename java doc reference to parameter [refactoring],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+5833,product: jdt component: ui summary: junit: run history [junit],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+6438,product: platform component: swt summary: styledtext - bidi - isbidi test not working on xp,swt,Platform,lynne_kues@us.ibm.com,65,31
+126480,product: cdt component: cdt-core summary: indexer should cache its result,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+48139,product: pde component: ui summary: plugin import - wizard does not consider target platform refresh,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+5033,product: jdt component: ui summary: facility to generate and preview javadocs,ui,JDT,martinae@microsoft.com,66,426
+20236,product: pde component: ui summary: feature maifest: very wide overview page when many locales selected,ui,PDE,dejan@ca.ibm.com,35,632
+2572,product: platform component: ui summary: workbench -- can not access the value of the read-only property of a resource. (1ggyuuk),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+20115,"product: jdt component: ui summary: ""source | format"" scrolls to the top of the file",ui,JDT,erich_gamma@ch.ibm.com,43,399
+16690,product: pde component: ui summary: npe creating simple plugin wizard,ui,PDE,dejan@ca.ibm.com,35,632
+5629,product: platform component: ui summary: outliner does not automatically open when selecting a search result,ui,Platform,simon_arsenault@ca.ibm.com,80,46
+28217,product: pde component: build summary: enhancements to directory.txt,build,PDE,pde-core-inbox@eclipse.org,72,43
+7182,"product: platform component: team summary: detecting versions: ""nothing known about .vcm_meta""",team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+24305,product: jdt component: text summary: [tasks] task indicator at scrollbar,text,JDT,jdt-text-inbox@eclipse.org,50,171
+10888,product: jdt component: ui summary: refactoring - move add redundant import statements,ui,JDT,akiezun@gmail.com,14,304
+93589,product: cdt component: cdt-parser summary: open declaration on parameter yields npe,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+16418,product: jdt component: ui summary: find strings to externalize dialog tweaks,ui,JDT,akiezun@gmail.com,14,304
+4,product: platform component: team summary: need better error message if catching up over read-only resource (1gf69tf),team,Platform,Michael.Valenta@ibm.com,7,110
+34402,product: pde component: ui summary: selecting a plugin should be enough to enable 'add required plugins',ui,PDE,pde-ui-inbox@eclipse.org,73,356
+10727,"product: cdt component: cdt-core summary: opening remote ""included source""",cdt-core,CDT,dmcknigh@ca.ibm.com,40,28
+86547,product: cdt component: cdt-parser summary: [bindings] problems with bindings associated with functions that have default arguments,cdt-parser,CDT,aniefer@gmail.com,18,288
+9277,product: platform component: team summary: localy modified files are not moved to a branch,team,Platform,Michael.Valenta@ibm.com,7,110
+50578,product: cdt component: cdt-core summary: can't drag and drop files from windows explorer to projects in the c/c++ projects view,cdt-core,CDT,alain@qnx.com,15,407
+109109,product: cdt component: cdt-core summary: missing return keyword in buildconsolepartition.equals(object),cdt-core,CDT,cdtdoug@gmail.com,25,129
+48164,product: pde component: ui summary: class ref checking doesn't understand arguments,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+19051,product: jdt component: ui summary: refer to other javadoc: doesn't work for me [javadoc],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+9377,product: jdt component: ui summary: java template enhancement request,ui,JDT,erich_gamma@ch.ibm.com,43,399
+10666,product: platform component: ui summary: bug in abstracttexteditor,ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+54750,product: cdt component: cdt-core summary: compiler errors using vc parser are not flagged,cdt-core,CDT,alain@qnx.com,15,407
+95741,product: cdt component: cdt-parser summary: dom parser: this does not match void *,cdt-parser,CDT,aniefer@gmail.com,18,288
+19558,product: pde component: ui summary: extension point usage form should be read-only,ui,PDE,wassim.melhem@gmail.com,86,303
+1847,product: platform component: ui summary: work with help team for example integration (1g5t6a8),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+47439,product: cdt component: cdt-core summary: [plan item] rename refactoring,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+25315,product: pde component: ui summary: mnemonic collision on sample property page wizard,ui,PDE,wassim.melhem@gmail.com,86,303
+54765,product: cdt component: cdt-core summary: null change to managed make properties causes rebuild all,cdt-core,CDT,sevoy@ca.ibm.com,79,75
+285,product: pde component: ui summary: inconsistent title in code generation wizard (1gfkq15),ui,PDE,dejan@ca.ibm.com,35,632
+52078,product: pde component: ui summary: improved error message for read-only manifest,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+37254,product: pde component: ui summary: new pde project creation - npe and error reports about .classpath,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+44013,product: cdt component: cdt-core summary: cpluginresources.properties does not have an entry for cprojectwizardpage.locationerror,cdt-core,CDT,alain@qnx.com,15,407
+26481,product: jdt component: ui summary: working set selection (java only) is unuseably slow. [filters],ui,JDT,daniel_megert@ch.ibm.com,32,216
+12445,product: jdt component: core summary: compiler failure on reference to abstract interface method,core,JDT,philippe_mulet@fr.ibm.com,74,207
+39255,product: pde component: ui summary: error log view: delete .log does not work,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+62390,product: cdt component: cdt-parser summary: [scanner] invalid c source causes a classcastexception,cdt-parser,CDT,john.camelon@gmail.com,56,302
+68550,product: cdt component: cdt-core summary: [indexer] cannot restart indexer by touching .c/.cpp/.cc files,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+9276,"product: platform component: team summary: tagging fails with ""cvs added"" files in workspace",team,Platform,Michael.Valenta@ibm.com,7,110
+14021,product: jdt component: ui summary: editor line indicator leaves bad highlighting behind on undo,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+6779,product: jdt component: core summary: searchdeclarationsofreferencedtyped - missing exception types,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+21782,product: jdt component: ui summary: code assist in create a java class wizard [general issue] [code manipulation],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+5721,product: platform component: ui summary: welcome not disabled,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+5430,product: jdt component: core summary: must resurrect 0.9 deprecated apis,core,JDT,philippe_mulet@fr.ibm.com,74,207
+15258,product: jdt component: ui summary: new menu no longer appears on all selections in packages view,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+10280,product: cdt component: cdt-other summary: selection mecahnism for extra_dist makefile.am variable,cdt-other,CDT,eyasser@ca.ibm.com,44,11
+86543,product: cdt component: cdt-parser summary: [bindings] function with variable parameter argument not found as declaration,cdt-parser,CDT,aniefer@gmail.com,18,288
+86281,product: cdt component: cdt-parser summary: indexer can't parse boost::function template types,cdt-parser,CDT,john.camelon@gmail.com,56,302
+72713,product: cdt component: cdt-parser summary: [open declaration] f3 on a method definition goes nowhere,cdt-parser,CDT,aniefer@gmail.com,18,288
+72529,product: cdt component: cdt-parser summary: [scanner] separate gcc extension from scanner2,cdt-parser,CDT,john.camelon@gmail.com,56,302
+12673,product: jdt component: text summary: [hovering] unresolved escape sequences of java-doc comments,text,JDT,jdt-text-inbox@eclipse.org,50,171
+13431,"product: jdt component: ui summary: ""assert failed"" when opening type hierarchy on selection in file opened from project version",ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+70319,product: cdt component: cdt-build summary: build console is not cleared between builds,cdt-build,CDT,dinglis@qnx.com,37,148
+6225,product: jdt component: ui summary: add unimplemented methods creates incorrect comments,ui,JDT,martinae@microsoft.com,66,426
+80171,"product: cdt component: cdt-parser summary: cdt parser doesn't understand the code when add a new static variable but with no ""type"" defined.",cdt-parser,CDT,john.camelon@gmail.com,56,302
+6681,product: pde component: ui summary: possible bug when recreating project,ui,PDE,dejan@ca.ibm.com,35,632
+98365,product: cdt component: cdt-core summary: [content assist][open declaration] broken on typedef struct with enum,cdt-core,CDT,aniefer@gmail.com,18,288
+27252,product: jdt component: ui summary: organize imports never removes qualified names,ui,JDT,martinae@microsoft.com,66,426
+12353,product: jdt component: core summary: documentadapter can never be closed,core,JDT,erich_gamma@ch.ibm.com,43,399
+102386,product: cdt component: cdt-debug summary: double-clicking on a disassembly line in the disassembly view does not add a breakpoint,cdt-debug,CDT,cdt-debug-inbox@eclipse.org,24,62
+86861,product: cdt component: cdt-parser summary: [parser] iastproblemstatement with cast expression as selector,cdt-parser,CDT,john.camelon@gmail.com,56,302
+7712,product: platform component: swt summary: no scroll bars in microsoft word documents opened from the workbench,swt,Platform,veronika_irvine@yahoo.com,84,63
+69091,product: cdt component: cdt-core summary: concurrentmodificationexception at end of build,cdt-core,CDT,alain@qnx.com,15,407
+79425,product: cdt component: cdt-parser summary: search on method ref fails inside inline defn,cdt-parser,CDT,john.camelon@gmail.com,56,302
+3434,product: jdt component: core summary: deleting a project from the ws removes it from the buildpath! (1gkznbs),core,JDT,philippe_mulet@fr.ibm.com,74,207
+11149,product: pde component: ui summary: plug-in binary filter for packages view,ui,PDE,dejan@ca.ibm.com,35,632
+9998,product: jdt component: core summary: performance - better pruning meaningless ast nodes upon completion,core,JDT,david_audel@fr.ibm.com,33,69
+52412,product: cdt component: cdt-parser summary: using declarations are problematic in the pst,cdt-parser,CDT,aniefer@gmail.com,18,288
+18072,product: jdt component: ui summary: try catch popup message,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+27945,product: pde component: build summary: generic version numbers and feature parsing,build,PDE,pde-core-inbox@eclipse.org,72,43
+43299,product: pde component: build summary: packager should provide mechanism for ordering unzip/untar,build,PDE,pde-build-inbox@eclipse.org,71,57
+43534,product: pde component: ui summary: build control section of site.xml ui not supporting modification,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+126617,product: cdt component: cdt-core summary: cdt editor won't respect editor settings,cdt-core,CDT,aleherb+eclipse@gmail.com,16,50
+2280,product: platform component: ui summary: undo does not jump to undone location (1gek1g5),ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+29305,product: pde component: ui summary: arrayindexoutofboundsexception in .schema.docsection.update,ui,PDE,dejan@ca.ibm.com,35,632
+6810,product: platform component: ant summary: antrunner taking more arguments than needed,ant,Platform,dj.houghton@ca.ibm.com,39,82
+102014,product: cdt component: cdt-build summary: environment variable settings has different ui,cdt-build,CDT,mikhail.sennikovskiy@gmail.com,67,21
+9798,product: jdt component: ui summary: request: refactor should extract interface from class [refactoring],ui,JDT,akiezun@gmail.com,14,304
+137676,product: cdt component: cdt-parser summary: no code completion for struct within struct,cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+94434,product: cdt component: cdt-parser summary: [searchengine] returns typedef as a definition for c++,cdt-parser,CDT,gheorghe@ca.ibm.com,45,130
+7594,"product: platform component: compare summary: menu entry ""replace with previous"" shouldn't have a ""...""",compare,Platform,andre_weinand@ch.ibm.com,17,76
+108173,product: cdt component: cdt-core summary: schema for cindexer isn't really defined,cdt-core,CDT,mschorn.eclipse@gmx.at,68,108
+14079,product: jdt component: ui summary: drag & drop: copy onto itself deletes type,ui,JDT,akiezun@gmail.com,14,304
+9479,product: jdt component: core summary: exception on package creation (discouraged name),core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+4093,product: jdt component: ui summary: disappearing scrollbar on java build path (1gi7hfz),ui,JDT,erich_gamma@ch.ibm.com,43,399
+7217,product: pde component: ui summary: manifest editor ui inconsistent and confusing,ui,PDE,wassim.melhem@gmail.com,86,303
+4146,"product: jdt component: ui summary: dcr: search should offer ""copy to clipboard"" (1giwu9l)",ui,JDT,daniel_megert@ch.ibm.com,32,216
+42929,"product: cdt component: cdt-parser summary: log gets filled when parser throws on standard headers, it can't find",cdt-parser,CDT,gheorghe@ca.ibm.com,45,130
+131335,product: cdt component: cdt-core summary: remove killer.cpp and killer.h,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+27040,product: jdt component: text summary: writing text in javadoc comment is backwards,text,JDT,jdt-text-inbox@eclipse.org,50,171
+27673,product: jdt component: text summary: show tooltip description (f2) is disabled on read-only files,text,JDT,jdt-text-inbox@eclipse.org,50,171
+14228,product: jdt component: ui summary: too easy to create duplicate methods,ui,JDT,akiezun@gmail.com,14,304
+86353,product: cdt component: cdt-parser summary: [bindings c++] iastenumerator's name not found as declaration in c++,cdt-parser,CDT,aniefer@gmail.com,18,288
+33811,product: pde component: ui summary: improve wording for export deployable feature wizard,ui,PDE,wassim.melhem@gmail.com,86,303
+90652,product: cdt component: cdt-parser summary: [ibinding] invalid problembinding with cpp 10.2-3b,cdt-parser,CDT,aniefer@gmail.com,18,288
+69114,product: cdt component: cdt-core summary: [managed build] fails when starting build with old plugin.,cdt-core,CDT,leo.treggiari@intel.com,64,58
+2876,product: platform component: doc summary: ec: help doc should be reviewed and improved (1gkb53n),doc,Platform,John_Wiegand@us.ibm.com,3,10
+6050,product: jdt component: ui summary: avoid references to preference pages,ui,JDT,Claude_Knaus@oti.com,0,133
+7085,product: jdt component: core summary: build errors when adding the junit example project,core,JDT,philippe_mulet@fr.ibm.com,74,207
+5384,product: jdt component: core summary: search engine: behavior different than expected,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+15034,product: jdt component: ui summary: missing action labels,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+32279,product: pde component: ui summary: apparent missing message binding in xml errors,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+91544,product: cdt component: cdt-core summary: dom indexer double indexing on save,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+7466,product: jdt component: ui summary: tooltip marker display problem on < (less than) symbol.,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+8984,product: platform component: swt summary: ctabfolder.min_tab_width should not be static,swt,Platform,veronika_irvine@yahoo.com,84,63
+52501,product: pde component: ui summary: update site build fails on cdt,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+54868,product: cdt component: cdt-core summary: binary parser setting contentious for multi-platform teams,cdt-core,CDT,alain@qnx.com,15,407
+7581,product: platform component: ui summary: comboboxcelleditor does not size correctly in propery sheet,ui,Platform,Ian_Petersen@oti.com,1,13
+18509,product: jdt component: ui summary: show cu problem markers in types view [browsing],ui,JDT,daniel_megert@ch.ibm.com,32,216
+7200,product: jdt component: ui summary: current line highlighting,ui,JDT,erich_gamma@ch.ibm.com,43,399
+21519,product: jdt component: ui summary: problems deleting jar library [ccp] [build path],ui,JDT,akiezun@gmail.com,14,304
+49835,"product: pde component: ui summary: edit plugin.xml, lose project settings",ui,PDE,pde-ui-inbox@eclipse.org,73,356
+74034,product: cdt component: cdt-core summary: elf machine number for xilinx microblaze processor,cdt-core,CDT,alain@qnx.com,15,407
+5690,product: jdt component: ui summary: refactoring: incorrect extractmethod on conditional return in loop,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+39086,product: cdt component: cdt-core summary: fix the launcher to show the environment variable,cdt-core,CDT,dinglis@qnx.com,37,148
+22602,product: jdt component: ui summary: should allow search scope of compilation unit [search],ui,JDT,daniel_megert@ch.ibm.com,32,216
+10542,product: jdt component: ui summary: bad method javadoc generated by new class wizard (missing a *),ui,JDT,martinae@microsoft.com,66,426
+69604,product: cdt component: cdt-parser summary: [templates] instantiating template with deferred template instance,cdt-parser,CDT,victor.lenet@gmail.com,85,82
+7225,product: pde component: ui summary: markers: persisent or transient?,ui,PDE,dejan@ca.ibm.com,35,632
+50146,product: pde component: ui summary: feature editor ignores description/copyright/license,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+32054,product: pde component: ui summary: new plug-in wizard creates performance blooper,ui,PDE,konradk@ca.ibm.com,63,22
+13646,"product: pde component: ui summary: in plug-in project wizard, code generators page does not retain selection",ui,PDE,dejan@ca.ibm.com,35,632
+35488,product: pde component: ui summary: could not create workspace,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+26886,"product: jdt component: ui summary: ""rerun"" on junit [junit]",ui,JDT,erich_gamma@ch.ibm.com,43,399
+69046,product: cdt component: cdt-core summary: decorations offset in c/c++ projects view,cdt-core,CDT,dinglis@qnx.com,37,148
+45395,product: pde component: ui summary: unable to launch runtime workbench,ui,PDE,wassim.melhem@gmail.com,86,303
+50142,product: cdt component: cdt-core summary: [new class wizard] no validation in name field in c++ class wizard,cdt-core,CDT,hamer@ca.ibm.com,47,41
+7684,product: platform component: resources summary: cannot import files that have foreign characters in their name.,resources,Platform,john.arthorne@gmail.com,55,48
+69213,product: cdt component: cdt-parser summary: when working with c source using c++ keywords interferes with the outliner,cdt-parser,CDT,aniefer@gmail.com,18,288
+48368,product: pde component: ui summary: importing binary projects doesn't work....,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+72611,product: cdt component: cdt-parser summary: [parser] timeout strategy does not affect scanner infinite loops,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+8045,product: jdt component: ui summary: reactoring enhancement: add parameter / remove parameter [refactoring],ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+11220,product: jdt component: ui summary: jar generation fails by deselecting debug value,ui,JDT,daniel_megert@ch.ibm.com,32,216
+9458,product: pde component: ui summary: pde should honour version match rules,ui,PDE,dejan@ca.ibm.com,35,632
+78656,product: cdt component: cdt-parser summary: open declaration of method call on rhs of assignment fails,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+48383,product: pde component: ui summary: support working sets in export deployable plugins dialog,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+7265,product: platform component: team summary: cvsrepositorylocations are poorly managed by cvs plugin,team,Platform,Michael.Valenta@ibm.com,7,110
+8928,product: jdt component: core summary: unable to find references or declarations of methods that use static inner classes in the signature,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+32850,"product: pde component: ui summary: ""new required plugin"" dialog has buttons outside visible area",ui,PDE,wassim.melhem@gmail.com,86,303
+5884,product: jdt component: core summary: code assist should only fully qualify if needed,core,JDT,david_audel@fr.ibm.com,33,69
+29234,product: pde component: ui summary: feature about dialog blurb needs copyright to include 2003,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+20383,"product: jdt component: ui summary: tvt2: string ""generate javadoc"" hardcoded",ui,JDT,martinae@microsoft.com,66,426
+17861,product: pde component: ui summary: error in generated dtd,ui,PDE,dejan@ca.ibm.com,35,632
+6551,product: jdt component: ui summary: import assist adds unused import,ui,JDT,martinae@microsoft.com,66,426
+6827,"product: platform component: ui summary: delete project reports ""internal errors"" with normal use case",ui,Platform,knut_radloff@us.ibm.com,62,72
+20677,product: jdt component: ui summary: close/open project: incorrect compile order,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+2652,product: platform component: ui summary: [ui] ec - folder with only placeholders is still visible (1ghqon6),ui,Platform,ryan_cooper@oti.com,78,23
+8100,product: platform component: user assistance summary: banner image is causing tool buttons to be hidden,user assistance,Platform,birsan@ca.ibm.com,19,54
+68933,product: cdt component: cdt-core summary: [content assist] removes asterisks from parameter prompt,cdt-core,CDT,hamer@ca.ibm.com,47,41
+14934,product: pde component: ui summary: npe replacing from repository,ui,PDE,dejan@ca.ibm.com,35,632
+8081,product: jdt component: ui summary: inconsistent edit actions when editor is closed,ui,JDT,erich_gamma@ch.ibm.com,43,399
+6856,product: platform component: swt summary: default buttons different on variable dialog,swt,Platform,steve_northover@hotmail.com,81,103
+125468,product: cdt component: cdt-core summary: hyperlink on include,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+5831,product: jdt component: ui summary: opening a type hierarchy on a small project is slooow,ui,JDT,martinae@microsoft.com,66,426
+10661,"product: jdt component: ui summary: ""extract local variable"" doesn't work on string literals",ui,JDT,akiezun@gmail.com,14,304
+102806,product: cdt component: cdt-core summary: parser internal error resolving base class constructor in self-referential template code,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+115388,product: cdt component: cdt-build summary: the managetd make c++ project can not discriminate *.c as source file.,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+5304,product: platform component: swt summary: styledtext - arrayindexoutofboundsexception in styledtextbidi.segmentedrangesfor,swt,Platform,knut_radloff@us.ibm.com,62,72
+20476,"product: pde component: ui summary: tvt2: conflict shortkeys in ""default plug-in project"" panel",ui,PDE,dejan@ca.ibm.com,35,632
+10173,product: platform component: team summary: current revision not indicated in resource history,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+108907,product: cdt component: cdt-build summary: cdt / eclipse crashes unpredictably,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+8090,product: jdt component: ui summary: template pref page: code assist ignores code assist preferences,ui,JDT,Claude_Knaus@oti.com,0,133
+9004,product: platform component: ui summary: editor rearranges its location by itself,ui,Platform,knut_radloff@us.ibm.com,62,72
+23317,product: jdt component: text summary: auto-bracket-matching should skip 1 bracket,text,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+94360,product: cdt component: cdt-core summary: [open definition/declaration] selectiontests should disable indexer to ensure correctness of dom ast,cdt-core,CDT,devinsteffler.lists@gmail.com,36,116
+63471,product: cdt component: cdt-core summary: [scanner config] better messages,cdt-core,CDT,victor.lenet@gmail.com,85,82
+8698,product: platform component: resources summary: unable to distinguish missing delta from empty delta on startup,resources,Platform,john.arthorne@gmail.com,55,48
+4118,product: jdt component: ui summary: review: refactoringsearchengine (1gik9xu),ui,JDT,akiezun@gmail.com,14,304
+87027,product: cdt component: cdt-core summary: problem tree updates are very slow.,cdt-core,CDT,alain@qnx.com,15,407
+14421,product: jdt component: ui summary: old .class files are not deleted,ui,JDT,martinae@microsoft.com,66,426
+10142,product: platform component: ui summary: [view mgmt] no mechanism to determine when a view is showing,ui,Platform,Platform-UI-Inbox@eclipse.org,10,11
+6052,product: jdt component: ui summary: rename disabled for read-only resources,ui,JDT,akiezun@gmail.com,14,304
+45609,product: cdt component: cdt-core summary: errorparsermanager badly supports linked resources,cdt-core,CDT,alain@qnx.com,15,407
+13822,product: jdt component: ui summary: insert method skeleton during code assist,ui,JDT,erich_gamma@ch.ibm.com,43,399
+93512,product: cdt component: cdt-build summary: invalid import in manageconifgdialog.java,cdt-build,CDT,leo.treggiari@intel.com,64,58
+22725,product: jdt component: ui summary: nls tool: default common prefix [refactoring],ui,JDT,akiezun@gmail.com,14,304
+28761,product: jdt component: text summary: npe when using 'for' template in scrapbook editor,text,JDT,jdt-text-inbox@eclipse.org,50,171
+9221,"product: platform component: ui summary: esc not working in ""navigator filters"" dialog",ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+4467,product: platform component: swt summary: dcr - tree missing keyboard support (1fjh5gy),swt,Platform,steve_northover@hotmail.com,81,103
+19468,product: pde component: ui summary: npe trying to launch a run configuration,ui,PDE,dejan@ca.ibm.com,35,632
+53486,product: cdt component: cdt-core summary: make targets not saved in a project persistable location,cdt-core,CDT,dinglis@qnx.com,37,148
+34869,product: cdt component: cdt-core summary: c editor hangs eclipse when opening simple c++ .h file,cdt-core,CDT,jcamelon@rational.com,49,50
+69512,"product: cdt component: cdt-core summary: [open type] ""show low-level types"" option does not work?",cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+95551,product: cdt component: cdt-core summary: [open declaration] does not highlight proper offsets with ctags when indexer is required,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+63479,product: cdt component: cdt-debug summary: [debug]: the binaries for managed make projects are only listed sometimes.,cdt-debug,CDT,sevoy@ca.ibm.com,79,75
+11721,product: pde component: build summary: feature jar generation with pde wizard fails,build,PDE,dj.houghton@ca.ibm.com,39,82
+66186,product: cdt component: cdt-core summary: c model status [!element.doesnotexist!],cdt-core,CDT,alain@qnx.com,15,407
+29071,product: jdt component: ui summary: [key bindings] 'show in navigator view' appears incorrectly in key binding list,ui,JDT,jdt-ui-inbox@eclipse.org,51,126
+66543,product: cdt component: cdt-parser summary: [content assist] autocomplete does not appear for arrays of structs,cdt-parser,CDT,john.camelon@gmail.com,56,302
+73141,product: cdt component: cdt-parser summary: preprocessor symbols ignored (in line of class definition),cdt-parser,CDT,cdt-core-inbox@eclipse.org,23,289
+18612,product: pde component: ui summary: widgets in pde manifest editors should not use mnemonics,ui,PDE,dejan@ca.ibm.com,35,632
+25576,product: cdt component: cdt-core summary: build output parser doesn't turn build output into tasks,cdt-core,CDT,alain@qnx.com,15,407
+5839,product: platform component: compare summary: usability: initial diff is sometimes not horizontally aligned,compare,Platform,andre_weinand@ch.ibm.com,17,76
+32760,product: pde component: ui summary: a4.12: package name is not shown in the wizard,ui,PDE,dejan@ca.ibm.com,35,632
+77097,product: cdt component: cdt-parser summary: preprocessor problem - multi line #defines are not accepted,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+25583,product: jdt component: ui summary: support hierarchical packages layout in packages view,ui,JDT,daniel_megert@ch.ibm.com,32,216
+7857,product: platform component: ui summary: confirm project delete dialog could be enhanced,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+8530,product: jdt component: core summary: internal error using assertions (1.4 feature),core,JDT,philippe_mulet@fr.ibm.com,74,207
+38920,product: cdt component: cdt-core summary: typedefs for pointers to function miss parameter lists in outline view,cdt-core,CDT,alain@qnx.com,15,407
+821,product: platform component: user assistance summary: help: links button shown even when no more links (1gf66gc),user assistance,Platform,birsan@ca.ibm.com,19,54
+68931,product: cdt component: cdt-core summary: indexer syntax error only underlines the first character,cdt-core,CDT,aniefer@gmail.com,18,288
+4893,product: platform component: team summary: cvs: .cvsignore does not ignore resources that have been previously released (1gjuu5l),team,Platform,Michael.Valenta@ibm.com,7,110
+5603,product: jdt component: ui summary: tvt: jar file export error message constructed incorrectly for nl (jarfileexportoperation.exportedwithcompile),ui,JDT,daniel_megert@ch.ibm.com,32,216
+19388,product: pde component: ui summary: clicking in plugin manifest editor doesn't activate editor,ui,PDE,wassim.melhem@gmail.com,86,303
+35723,product: pde component: ui summary: npe after inserting error in plugin.xml,ui,PDE,dejan@ca.ibm.com,35,632
+3072,product: platform component: resources summary: test: need test for interesting projects persistence (1gfj3l7),resources,Platform,john.arthorne@gmail.com,55,48
+40545,product: pde component: ui summary: check plugins dependencies from the runtime workbench run dialog,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+78292,product: cdt component: cdt-core summary: error marker on title bar for editor doesn't go away,cdt-core,CDT,dinglis@qnx.com,37,148
+9264,product: platform component: ui summary: allow dominant cfg to set certain default workbench settings,ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+27038,"product: jdt component: ui summary: refactor: extract interface with ""change references to the class ...""",ui,JDT,akiezun@gmail.com,14,304
+133881,product: cdt component: cdt-build summary: make refreshing after building optional,cdt-build,CDT,recoskie@ca.ibm.com,76,25
+102709,product: cdt component: cdt-core summary: conversion to long_name/short_name in gccperfilebopconsoleparser causes problems,cdt-core,CDT,victor.lenet@gmail.com,85,82
+7283,"product: platform component: team summary: history view - ""add to workspace"" required",team,Platform,James_Moody@ca.ibm.com,2,173
+74323,"product: cdt component: cdt-parser summary: [parser][iproblem] _binaryfunctionconcept < _compare,bool,_tp,_tp> has two warning markers",cdt-parser,CDT,john.camelon@gmail.com,56,302
+6687,product: jdt component: core summary: wrong javamodel refresh after drag and drop outside folder with dot in name,core,JDT,jerome_lanneluc@fr.ibm.com,54,122
+17989,product: jdt component: ui summary: deleting a java file doesn't close its editor and save problems,ui,JDT,kai-uwe_maetzel@ch.ibm.com,57,311
+15631,product: jdt component: ui summary: unacceptable behavior editing method names in java editor,ui,JDT,daniel_megert@ch.ibm.com,32,216
+24044,product: jdt component: text summary: translation of predefined variables in templates (i18n),text,JDT,jdt-text-inbox@eclipse.org,50,171
+30643,product: pde component: ui summary: pde preference pages cut off in high contrast,ui,PDE,wassim.melhem@gmail.com,86,303
+138330,product: cdt component: cdt-core summary: [editor] restoring assembly editor on startup throws lots of nullpointerexceptions,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+8915,product: jdt component: ui summary: project dependencies not updated when .classpath file is read-only[pr 1glevo4],ui,JDT,martinae@microsoft.com,66,426
+7935,product: platform component: search summary: internal error clicking search button,search,Platform,erich_gamma@ch.ibm.com,43,399
+10764,product: platform component: team summary: team2.0 - extremly slow to initiate synchronization,team,Platform,jean-michel_lemieux@ca.ibm.com,52,23
+99868,product: cdt component: cdt-core summary: [indexer] junit failures,cdt-core,CDT,gheorghe@ca.ibm.com,45,130
+3439,product: jdt component: core summary: classfile comparator should be able to ignore synthetics (1gl2i3n),core,JDT,Olivier_Thomann@ca.ibm.com,9,135
+25171,product: jdt component: ui summary: some actions should not be allowed on cu outside classpath [general issue],ui,JDT,martinae@microsoft.com,66,426
+12045,"product: pde component: ui summary: npe during ""run configurations...""",ui,PDE,dejan@ca.ibm.com,35,632
+122126,product: cdt component: cdt-core summary: outline shows only global include,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+98881,"product: cdt component: cdt-parser summary: ""search scope for completion proposal"" ignored completely",cdt-parser,CDT,cdtdoug@gmail.com,25,129
+6727,product: platform component: compare summary: patch: *.rej file must be saved in workspace,compare,Platform,andre_weinand@ch.ibm.com,17,76
+12720,product: jdt component: ui summary: can't dnd into non-source folder in packages view,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+13531,"product: jdt component: core summary: java indexing thread finds ""bonjour, le monde!"" too interesting",core,JDT,kent_johnson@ca.ibm.com,60,69
+204,"product: platform component: team summary: ""show version info"" should show actual version info (1ggnlnu)",team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+5825,product: platform component: resources summary: support making readonly files non modifiable,resources,Platform,dj.houghton@ca.ibm.com,39,82
+83531,product: cdt component: cdt-build summary: unable to install from help->software updates->find and install...,cdt-build,CDT,cdtdoug@gmail.com,25,129
+32597,product: pde component: ui summary: yet another null pointer ... just opening pde,ui,PDE,dejan@ca.ibm.com,35,632
+4373,product: jdt component: ui summary: packages view - double clich doesn't expand two hiearchy levels,ui,JDT,erich_gamma@ch.ibm.com,43,399
+5794,product: jdt component: core summary: polymorphic search doesn't work in dependent projects,core,JDT,philippe_mulet@fr.ibm.com,74,207
+242,product: platform component: team summary: [progress] rework: revisit cancel (1gjn42y),team,Platform,James_Moody@ca.ibm.com,2,173
+86698,product: cdt component: cdt-parser summary: [selection] selecting from constructor chain initializer fails to find iastnode due to stop condition,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+79339,product: cdt component: cdt-parser summary: content assist fails on sdl/sdl.h,cdt-parser,CDT,cdtdoug@gmail.com,25,129
+6770,product: platform component: swt summary: only the left mouse button should select in a table.,swt,Platform,knut_radloff@us.ibm.com,62,72
+69161,product: cdt component: cdt-parser summary: [scanner] macro usage error with quoted comma,cdt-parser,CDT,john.camelon@gmail.com,56,302
+3669,product: platform component: text summary: wrapping code assist list (1gdtv4s),text,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+4816,product: platform component: swt summary: tabitem displays & (1gjl704),swt,Platform,Mike_Wilson@ca.ibm.com,8,48
+90688,product: cdt component: cdt-doc summary: chkpii errors in cdt doc,cdt-doc,CDT,cdtdoug@gmail.com,25,129
+4849,"product: platform component: swt summary: multi select tree - disposing last selected item selects ""random"" item (1gkx5tw) [portability]",swt,Platform,steve_northover@hotmail.com,81,103
+10520,product: platform component: team summary: validateedit is being called before validatesave on save,team,Platform,Kevin_McGuire@ca.ibm.com,5,113
+3140,product: platform component: resources summary: ignored case (1glbmjs),resources,Platform,john.arthorne@gmail.com,55,48
+11074,product: platform component: swt summary: eventtable.sendevent should probably use try/finally,swt,Platform,steve_northover@hotmail.com,81,103
+91308,product: cdt component: cdt-build summary: npe for importing a existing mgd build project without .cdtbuild,cdt-build,CDT,leo.treggiari@intel.com,64,58
+99233,"product: cdt component: cdt-parser summary: [npe] in internalastserviceprovider#getcompletionnode(ifile, int, icodereaderfactory) from content assist",cdt-parser,CDT,cdtdoug@gmail.com,25,129
+72695,product: cdt component: cdt-parser summary: [content assist] ca in template argument uses wrong context,cdt-parser,CDT,cdtdoug@gmail.com,25,129
+73887,product: cdt component: cdt-core summary: [editor] responsiveness horrible with large program,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+15418,product: jdt component: core summary: classpath container - may get the init-in-progress value back,core,JDT,philippe_mulet@fr.ibm.com,74,207
+26583,product: jdt component: text summary: code assist light bulbs not removed from vertical bar after fix,text,JDT,jdt-text-inbox@eclipse.org,50,171
+14030,product: pde component: ui summary: [dbcs] new project wizard needs better error messages,ui,PDE,wassim.melhem@gmail.com,86,303
+25668,product: jdt component: text summary: plugable code completion,text,JDT,jdt-text-inbox@eclipse.org,50,171
+104094,product: cdt component: cdt-parser summary: [codereadercache] leaks listeners,cdt-parser,CDT,devinsteffler.lists@gmail.com,36,116
+9993,product: platform component: swt summary: olecontrolsite is not powerful enough,swt,Platform,veronika_irvine@yahoo.com,84,63
+71519,product: cdt component: cdt-build summary: managed c make command,cdt-build,CDT,sevoy@ca.ibm.com,79,75
+2260,product: platform component: ui summary: filter dialog wording inconsistent/confusing (1geew34),ui,Platform,n.a.edgar@gmail.com,69,58
+6554,product: platform component: resources summary: api javadoc: need to add @since 2.0 where appropriate,resources,Platform,dj.houghton@ca.ibm.com,39,82
+12053,product: jdt component: ui summary: allow mutli selection for all browsers,ui,JDT,daniel_megert@ch.ibm.com,32,216
+72198,product: cdt component: cdt-core summary: [outline] wrong outline produced for files with same name,cdt-core,CDT,alain@qnx.com,15,407
+9842,product: platform component: compare summary: expand all action needed in structure compare view,compare,Platform,andre_weinand@ch.ibm.com,17,76
+2909,product: platform component: ui summary: [examples]: propertysheet - restore default values does not work (1gko8d0),ui,Platform,airvine@ca.ibm.com,13,16
+78539,product: cdt component: cdt-core summary: jobmanager should use wait,cdt-core,CDT,cdt-core-inbox@eclipse.org,23,289
+8439,product: platform component: team summary: remove cvsprovider nature when writing out .vcm_meta,team,Platform,Michael.Valenta@ibm.com,7,110
+13579,product: jdt component: ui summary: source attachment closes .class editor,ui,JDT,erich_gamma@ch.ibm.com,43,399
+5365,product: platform component: resources summary: severe: elementtree problems on shutdown,resources,Platform,john.arthorne@gmail.com,55,48
+8335,product: platform component: team summary: internal error retreiving remote resource tree should be improved,team,Platform,Michael.Valenta@ibm.com,7,110
+5258,product: jdt component: ui summary: errors when trying to create a new template,ui,JDT,Claude_Knaus@oti.com,0,133
+8924,product: platform component: ui summary: [jface text] locking editors for read-only files,ui,Platform,kai-uwe_maetzel@ch.ibm.com,57,311
+86546,"product: cdt component: cdt-parser summary: [bindings] arrayindexoutofboundsexception thrown in cppsemantics#reducetoviable(lookupdata, ibinding[])",cdt-parser,CDT,aniefer@gmail.com,18,288
+49707,product: pde component: ui summary: [manifest editor] editor should check for changes to underlying file,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+266,product: platform component: team summary: sync view memory leak (1gkkuik),team,Platform,James_Moody@ca.ibm.com,2,173
+8737,product: platform component: swt summary: no selection event when dnd starts,swt,Platform,veronika_irvine@yahoo.com,84,63
+341,product: pde component: ui summary: pde does not handle $ws$/*.jar requires entry (1gl2q7c),ui,PDE,dejan@ca.ibm.com,35,632
+4272,product: jdt component: ui summary: npe from extractmethodaction (1gkrsgd),ui,JDT,erich_gamma@ch.ibm.com,43,399
+43323,product: pde component: ui summary: ability to export plugins in the background,ui,PDE,pde-ui-inbox@eclipse.org,73,356
+79650,product: cdt component: cdt-parser summary: parser error during type casting,cdt-parser,CDT,john.camelon@gmail.com,56,302
+34684,product: pde component: ui summary: 2.1 rc2; reloading plugin in target platform pref page looses selection.,ui,PDE,wassim.melhem@gmail.com,86,303
+2145,product: platform component: ui summary: fast views too slow when going away (1ge8ihm),ui,Platform,Randy_Giffen@oti.com,11,54
+28735,product: jdt component: text summary: npe in compilationuniteditor,text,JDT,jdt-text-inbox@eclipse.org,50,171
+27054,product: pde component: build summary: [features] build should support conditionals,build,PDE,pde-core-inbox@eclipse.org,72,43
+95461,product: cdt component: cdt-parser summary: parser is confused with array and pointer type equivalents,cdt-parser,CDT,aniefer@gmail.com,18,288
+330,product: pde component: ui summary: pde launcher issue related to startup.jar (1gknxnc),ui,PDE,dejan@ca.ibm.com,35,632
+2882,product: platform component: ui summary: aboutpluginsdialog very slow to come up on j9 (1gkbj06),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+7423,product: jdt component: ui summary: leverage new iworkbench.openpage api,ui,JDT,dirk_baeumer@ch.ibm.com,38,183
+76452,product: cdt component: cdt-build summary: [managed build] linker option changes trigger rebuild,cdt-build,CDT,mikhail.sennikovskiy@gmail.com,67,21
+4529,product: platform component: swt summary: closing external ms word makes in-place ms word disappear (1fwg9ar),swt,Platform,veronika_irvine@yahoo.com,84,63
+13957,product: jdt component: core summary: launchingplugin specification of resourcecopyexclusionfilter,core,JDT,philippe_mulet@fr.ibm.com,74,207
+2914,product: platform component: ui summary: unsafe font lookup in the fontregistry (1gkm997),ui,Platform,Kevin_Haaland@ca.ibm.com,4,192
+70271,product: cdt component: cdt-build summary: [managed build] no browse button on managed build paths edit dialogs,cdt-build,CDT,cdt-build-inbox@eclipse.org,22,89
+12317,product: cdt component: cdt-core summary: shutdown eclipse after closing remote project,cdt-core,CDT,dmcknigh@ca.ibm.com,40,28
