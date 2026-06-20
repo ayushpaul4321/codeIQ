@@ -20,11 +20,12 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 # Paths to model assets — can be overridden via environment variables
 # ---------------------------------------------------------------------------
-MODEL_DIR = os.getenv("MODEL_DIR", "storage/models")
+MODEL_DIR   = os.getenv("MODEL_DIR",   "storage/models")
+DATASET_DIR = os.getenv("DATASET_DIR", "storage/datasets")
 
-_TRIAGE_MODEL_PATH = os.path.join(MODEL_DIR, "bert_triage", "mlp_classifier.pt")
-_LABEL_MAP_PATH    = os.path.join(MODEL_DIR, "bert_triage", "dev_label_map.json")
-_EFFORT_MODEL_PATH = os.path.join(MODEL_DIR, "effort_estimator", "lstm_estimator.pt")
+_TRIAGE_MODEL_PATH = os.path.join(MODEL_DIR,   "bert_triage",          "mlp_classifier.pt")
+_LABEL_MAP_PATH    = os.path.join(DATASET_DIR,  "processed",            "dev_label_map.json")
+_EFFORT_MODEL_PATH = os.path.join(MODEL_DIR,   "effort_estimator",     "lstm_estimator.pt")
 
 
 # ---------------------------------------------------------------------------
@@ -89,9 +90,19 @@ async def lifespan(app: FastAPI):
         logger.warning("SprintRiskEngine failed to build: %s", exc)
         risk_engine = _make_unloaded_stub("SprintRiskEngine")
 
+    # --- GA Replanner ---
+    try:
+        from app.models.replanner import GAReplanner
+        replanner = GAReplanner(risk_engine=risk_engine)
+        logger.info("GAReplanner initialized successfully.")
+    except Exception as exc:
+        logger.warning("GAReplanner failed to initialize: %s", exc)
+        replanner = _make_unloaded_stub("GAReplanner")
+
     app.state.triage_service = triage
     app.state.effort_service  = effort
     app.state.risk_engine     = risk_engine
+    app.state.replanner       = replanner
 
     yield  # application runs here
 

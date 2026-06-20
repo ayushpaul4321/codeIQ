@@ -1,0 +1,39 @@
+# ── Web framework ──────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# ── Database ───────────────────────────────────────────────────────────────
+sqlalchemy==2.0.30
+alembic==1.13.1
+psycopg2-binary==2.9.9
+supabase==2.4.2
+
+# ── ML / Numerical ────────────────────────────────────────────────────────
+torch==2.3.0
+sentence-transformers==3.0.0
+scikit-learn==1.5.0
+numpy==1.26.4
+scipy==1.13.0
+joblib==1.4.2
+scikit-fuzzy==0.4.2
+networkx==3.3
+deap==1.4.1
+
+# ── Data processing ────────────────────────────────────────────────────────
+pandas==2.2.2
+
+# ── Utilities ─────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+pydantic==2.7.1
+httpx==0.27.0
+
+# ── Testing ────────────────────────────────────────────────────────────────
+pytest==8.2.2
+pytest-asyncio==0.23.7
+hypothesis==6.103.1
+
+# ── Dashboard ─────────────────────────────────────────────────────────────
+streamlit==1.35.0
+plotly==5.22.0
+requests==2.32.3

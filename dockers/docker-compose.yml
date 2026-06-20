@@ -1,0 +1,98 @@
+version: "3.9"
+
+# ── Named volumes ──────────────────────────────────────────────────────────
+volumes:
+  pgdata:
+
+# ── Services ───────────────────────────────────────────────────────────────
+services:
+
+  # ── PostgreSQL database ───────────────────────────────────────────────
+  db:
+    image: postgres:15-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER:     ${POSTGRES_USER:-sprintguard}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-sprintguard}
+      POSTGRES_DB:       sprintguard
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-sprintguard} -d sprintguard"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    ports:
+      - "5432:5432"
+
+  # ── SprintGuard API ───────────────────────────────────────────────────
+  api:
+    build:
+      context: ..
+      dockerfile: dockers/Dockerfile
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file:
+      - ../.env
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-sprintguard}:${POSTGRES_PASSWORD:-sprintguard}@db:5432/sprintguard
+      MODEL_DIR:    /app/storage/models
+      LOG_LEVEL:    ${LOG_LEVEL:-info}
+    depends_on:
+      db:
+        condition: service_healthy
+    command: >
+      sh -c "alembic upgrade head && uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --log-level ${LOG_LEVEL:-info}"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    # ── NVIDIA GPU (optional — remove if no GPU available) ────────────
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  # ── Streamlit dashboard ───────────────────────────────────────────────
+  dashboard:
+    build:
+      context: ..
+      dockerfile: dockers/Dockerfile
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    env_file:
+      - ../.env
+    environment:
+      API_BASE: http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    command: >
+      streamlit run frontend/dashboard.py --server.address 0.0.0.0 --server.port 8501 --server.headless true
+    profiles:
+      - dashboard
+
+  # ── Smoke test runner (docker-compose --profile smoke up smoke) ───────
+  smoke:
+    image: curlimages/curl:8.7.1
+    depends_on:
+      api:
+        condition: service_healthy
+    entrypoint: >
+      sh -c "
+        echo '=== Smoke: GET /health ===' &&
+        curl -sf http://api:8000/health | grep '\"status\":\"ok\"' &&
+        echo 'PASS: /health' &&
+        echo '=== Smoke: GET /api/v1/sprint/SPRINT-001/risk ===' &&
+        curl -sf http://api:8000/api/v1/sprint/SPRINT-001/risk &&
+        echo 'PASS: sprint risk endpoint responded'
+      "
+    profiles:
+      - smoke

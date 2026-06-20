@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Kiro internals
+.kiro/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+backend/venv/
+
+# Development / IDE
+.vscode/
+.idea/
+*.egg-info/
+
+# Git
+.git/
+.gitignore
+
+# Datasets (large files not needed at runtime)
+storage/datasets/
+
+# Docs
+docs/
+
+# Frontend source (mounted separately or built differently)
+# frontend/   -- keep this so dashboard.py is available
+
+# Tests
+tests/

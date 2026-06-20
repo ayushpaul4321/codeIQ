@@ -27,6 +27,7 @@ if TYPE_CHECKING:
     from app.models.triage_service import TriageService
     from app.models.effort_estimator import EffortEstimatorService
     from app.models.sprint_risk import SprintRiskEngine
+    from app.models.replanner import GAReplanner
 
 
 # ---------------------------------------------------------------------------
@@ -51,6 +52,11 @@ def get_effort_service(request: Request) -> "EffortEstimatorService":
 def get_risk_engine(request: Request) -> "SprintRiskEngine":
     """Return the SprintRiskEngine attached to app.state at startup."""
     return request.app.state.risk_engine
+
+
+def get_replanner(request: Request) -> "GAReplanner":
+    """Return the GAReplanner attached to app.state at startup."""
+    return request.app.state.replanner
 
 
 # ---------------------------------------------------------------------------
